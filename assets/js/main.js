@@ -96,13 +96,13 @@
     if (t.ink) r.setProperty("--ink", t.ink);
     if (t.tint) r.setProperty("--tint", t.tint);
     if (t.radius) r.setProperty("--radius", /^\d+$/.test(t.radius) ? `${t.radius}px` : t.radius);
-    if (t.localFonts) {
+    if (t.localFonts && !$('link[href="assets/css/fonts.css"]')) {
       const l = document.createElement("link");
       l.rel = "stylesheet"; l.href = "assets/css/fonts.css";
       document.head.appendChild(l);
     }
-    if (t.displayFont) r.setProperty("--font-display", `"${t.displayFont}", "Instrument Serif", "Times New Roman", serif`);
-    if (t.bodyFont) r.setProperty("--font-body", `"${t.bodyFont}", "Inter Tight", "Helvetica Neue", Arial, sans-serif`);
+    if (t.displayFont) r.setProperty("--font-display", `"${t.displayFont}", "Times New Roman", serif`);
+    if (t.bodyFont) r.setProperty("--font-body", `"${t.bodyFont}", "Helvetica Neue", Arial, sans-serif`);
 
     const titles = { home: "", works: "Works", work: "Work", about: "About", archive: "Archive", contact: "Contact" };
     const name = `${site.brand.firstName} ${site.brand.lastName}`;
