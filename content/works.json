@@ -9,8 +9,8 @@
       "label": "Packaging"
     },
     {
-      "id": "product-viz",
-      "label": "Product Visualization"
+      "id": "illustration",
+      "label": "Illustration"
     },
     {
       "id": "motion",
@@ -19,421 +19,358 @@
     {
       "id": "art-direction",
       "label": "Art Direction"
+    },
+    {
+      "id": "product-viz",
+      "label": "Product Visualization"
+    },
+    {
+      "id": "3d",
+      "label": "3D"
     }
   ],
   "projects": [
     {
       "slug": "the-commons",
       "title": "The Commons",
-      "client": "The Commons",
       "year": "2026",
       "categories": [
         "branding",
-        "art-direction",
-        "motion"
+        "motion",
+        "art-direction"
       ],
       "tags": [
         "Branding",
+        "Motion",
         "Art Direction"
       ],
       "featured": true,
       "cover": "assets/media/works/the-commons/cover.webp",
-      "coverVideo": "assets/media/works/the-commons/comp-1-1.mp4",
+      "coverFocus": "38% 50%",
+      "coverVideo": "assets/media/works/the-commons/logo-1.mp4",
       "palette": [
         "#7879CC",
         "#ED6E2B",
         "#F8F3EF"
       ],
-      "summary": "An identity for a community pickleball club built around movement, connection and shared experiences.",
-      "services": [
+      "summary": "A community-driven pickleball identity built around movement, connection and shared experiences.",
+      "intro": "A community-driven pickleball identity built around movement, connection and shared experiences.\n\nThe visual language transforms the energy of the court into a playful world that extends beyond the game.",
+      "role": [
         "Brand Identity",
-        "Brand Guidelines",
         "Art Direction",
-        "Motion",
-        "Merchandise",
-        "Social"
+        "Visual System",
+        "Applications"
       ],
-      "info": "The Commons is a neighbourhood pickleball club where the court is the meeting point. The identity pairs Rally Orange with Court Violet, Club Canvas and Ace Lilac. A ball-dot motif and a looped logomark carry the system from the court to the café counter. The tone is warm, social and a little competitive: Rally. Connect. Repeat.",
+      "tools": [
+        "Illustrator",
+        "After Effects",
+        "Figma",
+        "Photoshop"
+      ],
+      "collaborators": [],
+      "links": [],
       "blocks": [
         {
           "type": "media",
-          "ratio": "1600/900",
-          "video": "assets/media/works/the-commons/comp-1-1.mp4",
-          "image": "assets/media/works/the-commons/comp-1-1-poster.jpg"
+          "ratio": "16/9",
+          "bleed": true,
+          "image": "assets/media/works/the-commons/comp-1-1-poster.jpg",
+          "video": "assets/media/works/the-commons/comp-1-1.mp4"
         },
         {
           "type": "text",
-          "heading": "The idea",
-          "body": "Court time > screen time. The brand positions the club as a third place — somewhere to play, linger and meet people. Every touchpoint borrows from the game: ball perforations, court lines and the rhythm of a rally."
+          "label": "Role",
+          "heading": "My Role",
+          "body": "Developed the visual identity and graphic system for The Commons, translating the energy of pickleball into a playful and cohesive brand language across physical and digital touchpoints.",
+          "kicker": "Brand Identity · Art Direction · Visual System · Applications"
+        },
+        {
+          "type": "text",
+          "label": "01",
+          "heading": "The Context",
+          "body": "The Commons is imagined as more than a place to play pickleball. It is a space built around bringing people together through play, movement and shared experiences. The challenge was to create an identity that could capture the energy of the sport while feeling social, approachable and distinctive."
+        },
+        {
+          "type": "text",
+          "label": "02",
+          "heading": "The Idea",
+          "body": "The identity is built around the idea of the court as a shared space. Its lines, shapes and geometry become the foundation of the visual language, translating the physical energy of pickleball into something playful, social and dynamic.\n\nCourt markings are abstracted into bold graphic forms, creating a visual system that can move between the game, the brand and the wider community.",
+          "kicker": "Play. Connect. Belong."
+        },
+        {
+          "type": "divider",
+          "title": "Process",
+          "note": "Logo, colour and the building blocks of the system."
         },
         {
           "type": "media",
-          "ratio": "1600/900",
-          "video": "assets/media/works/the-commons/logo-1.mp4",
-          "image": "assets/media/works/the-commons/logo-1-poster.jpg"
+          "ratio": "16/9",
+          "bleed": false,
+          "image": "assets/media/works/the-commons/logo-1-poster.jpg",
+          "video": "assets/media/works/the-commons/logo-1.mp4"
+        },
+        {
+          "type": "text",
+          "label": "03",
+          "heading": "The Identity",
+          "body": "A vibrant orange and layered purple palette gives the identity its energy, while rounded forms and compact typography keep it approachable. The system balances the competitive energy of sport with the relaxed, social character of a community space."
+        },
+        {
+          "type": "media",
+          "ratio": "16/9",
+          "bleed": false,
+          "image": "assets/media/works/the-commons/colourpalette.webp",
+          "video": "",
+          "fit": "contain",
+          "bg": "#F8F3EF"
+        },
+        {
+          "type": "media",
+          "ratio": "16/9",
+          "bleed": false,
+          "image": "assets/media/works/the-commons/brandguidelines.webp",
+          "video": ""
+        },
+        {
+          "type": "text",
+          "label": "04",
+          "heading": "The Visual System",
+          "body": "The visual system combines court-inspired geometry, bold colour blocks, playful graphics and photography. These elements can be rearranged across different formats while maintaining a consistent and recognisable brand presence.\n\nPhotography focuses on movement, interaction and the people around the game, reinforcing The Commons as a social space rather than simply a sports venue."
         },
         {
           "type": "pair",
+          "ratio": "4/5",
           "items": [
             {
-              "ratio": "1920/2400",
               "image": "assets/media/works/the-commons/instagram-post-25.webp",
               "video": ""
             },
             {
-              "ratio": "1920/2400",
               "image": "assets/media/works/the-commons/the-commons-02.webp",
               "video": ""
             }
           ]
         },
         {
-          "type": "media",
-          "ratio": "2400/1236",
-          "image": "assets/media/works/the-commons/colourpalette.webp",
-          "video": ""
-        },
-        {
-          "type": "media",
-          "ratio": "2400/1473",
-          "image": "assets/media/works/the-commons/brandguidelines.webp",
-          "video": ""
+          "type": "divider",
+          "title": "Final Deliverables",
+          "note": "Signage, equipment, merchandise, café and social."
         },
         {
           "type": "text",
-          "heading": "On court",
-          "body": "Wayfinding, community rules and court posters use bold type and colour-blocked panels so they read from across the court, while staying friendly up close."
+          "label": "05",
+          "heading": "The Applications",
+          "body": "The identity extends across the physical and digital experience, from court signage and equipment to social communication and branded touchpoints. The same visual language keeps every part of the experience connected."
         },
         {
           "type": "media",
-          "ratio": "2400/1600",
+          "ratio": "16/9",
+          "bleed": true,
           "image": "assets/media/works/the-commons/court-poster-1.webp",
           "video": ""
         },
         {
           "type": "media",
-          "ratio": "2400/1600",
+          "ratio": "16/9",
+          "bleed": false,
           "image": "assets/media/works/the-commons/court-poster-display-3.webp",
           "video": ""
         },
         {
-          "type": "text",
-          "heading": "Courtside",
-          "body": "The café menu is printed on paddle-shaped boards — Courtside Sips, Bites and Treats — with ball-pattern coasters to match."
-        },
-        {
           "type": "media",
-          "ratio": "1920/1080",
+          "ratio": "16/9",
+          "bleed": false,
           "image": "assets/media/works/the-commons/menuss.webp",
           "video": ""
         },
         {
           "type": "media",
-          "ratio": "1672/941",
+          "ratio": "16/9",
+          "bleed": true,
           "image": "assets/media/works/the-commons/coasterswithmenu.webp",
           "video": ""
         },
         {
           "type": "pair",
+          "ratio": "4/5",
           "items": [
             {
-              "ratio": "4/5",
-              "image": "assets/media/works/the-commons/enamelpns.webp",
+              "image": "assets/media/works/the-commons/instagram-post-31.webp",
               "video": ""
             },
             {
-              "ratio": "4/5",
-              "image": "assets/media/works/the-commons/instagram-post-31.webp",
+              "image": "assets/media/works/the-commons/enamelpns.webp",
               "video": ""
             }
           ]
         },
         {
           "type": "media",
-          "ratio": "2400/1286",
-          "image": "assets/media/works/the-commons/ender-08.webp",
-          "video": ""
-        },
-        {
-          "type": "media",
-          "ratio": "2400/1350",
+          "ratio": "16/9",
+          "bleed": false,
           "image": "assets/media/works/the-commons/socials2.webp",
           "video": ""
         },
         {
           "type": "media",
-          "ratio": "1600/900",
-          "video": "assets/media/works/the-commons/comp-1.mp4",
-          "image": "assets/media/works/the-commons/comp-1-poster.jpg"
-        },
-        {
-          "type": "credits",
-          "credits": [
-            {
-              "label": "Design",
-              "value": "Priya Shah"
-            },
-            {
-              "label": "Type",
-              "value": "Brand identity"
-            },
-            {
-              "label": "Year",
-              "value": "2026"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "silair",
-      "title": "Silair",
-      "client": "Silair",
-      "year": "2026",
-      "categories": [
-        "packaging",
-        "product-viz",
-        "motion"
-      ],
-      "tags": [
-        "Packaging",
-        "3D"
-      ],
-      "featured": true,
-      "cover": "assets/media/works/silair/render1.webp",
-      "coverVideo": "assets/media/works/silair/0001-0250.mp4",
-      "palette": [
-        "#B8172F",
-        "#F08A5D",
-        "#C9D86A"
-      ],
-      "summary": "Packaging, 3D visualisation and motion for a range of sparkling fruit beverages.",
-      "services": [
-        "Packaging Design",
-        "Illustration",
-        "Dielines",
-        "3D Visualisation",
-        "Motion"
-      ],
-      "info": "Silair is a sparkling beverage range in peach, lime and blackberry. Each can carries a hand-drawn swirl of fruit and fizz that wraps around a sharp, blackletter-inspired wordmark. The project covers the full packaging system, from can to multipack to shipping carton, and is rendered and animated in 3D.",
-      "blocks": [
-        {
-          "type": "media",
-          "ratio": "1600/900",
-          "video": "assets/media/works/silair/0001-0250.mp4",
-          "image": "assets/media/works/silair/0001-0250-poster.jpg"
-        },
-        {
-          "type": "text",
-          "heading": "Concept",
-          "body": "Each flavour gets its own colour world and an illustrated ribbon of fruit that moves around the can, so the range reads as a family on shelf but every can has its own personality."
-        },
-        {
-          "type": "pair",
-          "items": [
-            {
-              "ratio": "1/1",
-              "video": "assets/media/works/silair/bgpeach.mp4",
-              "image": "assets/media/works/silair/bgpeach-poster.jpg"
-            },
-            {
-              "ratio": "1/1",
-              "video": "assets/media/works/silair/comp-1-3.mp4",
-              "image": "assets/media/works/silair/comp-1-3-poster.jpg"
-            }
-          ]
-        },
-        {
-          "type": "media",
-          "ratio": "1280/720",
-          "image": "assets/media/works/silair/ideations.webp",
-          "video": ""
-        },
-        {
-          "type": "text",
-          "heading": "Range",
-          "body": "Peach, lime and blackberry, each lit and rendered in its own colour world."
-        },
-        {
-          "type": "media",
-          "ratio": "1920/1080",
-          "image": "assets/media/works/silair/render3.webp",
-          "video": ""
-        },
-        {
-          "type": "media",
-          "ratio": "1920/1080",
-          "image": "assets/media/works/silair/render4.webp",
-          "video": ""
-        },
-        {
-          "type": "media",
-          "ratio": "1920/1080",
-          "image": "assets/media/works/silair/render5.webp",
-          "video": ""
-        },
-        {
-          "type": "media",
-          "ratio": "1600/900",
-          "video": "assets/media/works/silair/combined-dieline-1.mp4",
-          "image": "assets/media/works/silair/combined-dieline-1-poster.jpg"
-        },
-        {
-          "type": "text",
-          "heading": "System",
-          "body": "From the primary can to the secondary four-pack and the tertiary shipping carton, the packaging scales without losing the swirl."
-        },
-        {
-          "type": "media",
-          "ratio": "2400/1800",
-          "image": "assets/media/works/silair/secondary-packaging.webp",
-          "video": ""
-        },
-        {
-          "type": "media",
-          "ratio": "2400/1800",
-          "image": "assets/media/works/silair/tertiary-packaging.webp",
-          "video": ""
-        },
-        {
-          "type": "media",
-          "ratio": "1920/1177",
-          "image": "assets/media/works/silair/stackk4.webp",
-          "video": ""
-        },
-        {
-          "type": "pair",
-          "items": [
-            {
-              "ratio": "1600/900",
-              "video": "assets/media/works/silair/0001-0040.mp4",
-              "image": "assets/media/works/silair/0001-0040-poster.jpg"
-            },
-            {
-              "ratio": "1600/900",
-              "video": "assets/media/works/silair/0001-0045.mp4",
-              "image": "assets/media/works/silair/0001-0045-poster.jpg"
-            }
-          ]
-        },
-        {
-          "type": "media",
-          "ratio": "2176/908",
-          "image": "assets/media/works/silair/render6.webp",
-          "video": ""
-        },
-        {
-          "type": "media",
-          "ratio": "1920/655",
-          "image": "assets/media/works/silair/social.webp",
-          "video": ""
-        },
-        {
-          "type": "credits",
-          "credits": [
-            {
-              "label": "Design",
-              "value": "Priya Shah"
-            },
-            {
-              "label": "Type",
-              "value": "Packaging · 3D · Motion"
-            },
-            {
-              "label": "Year",
-              "value": "2026"
-            }
-          ]
+          "ratio": "16/9",
+          "bleed": true,
+          "image": "assets/media/works/the-commons/comp-1-poster.jpg",
+          "video": "assets/media/works/the-commons/comp-1.mp4"
         }
       ]
     },
     {
       "slug": "1000-burgers",
       "title": "1000 Burgers",
-      "client": "1000 Burgers",
       "year": "2026",
       "categories": [
         "branding",
-        "packaging",
         "motion",
         "art-direction"
       ],
       "tags": [
         "Branding",
-        "Packaging"
+        "Motion",
+        "Art Direction"
       ],
       "featured": true,
       "cover": "assets/media/works/1000-burgers/cover.webp",
-      "coverVideo": "assets/media/works/1000-burgers/6-1.mp4",
+      "coverFocus": "62% 50%",
+      "coverVideo": "assets/media/works/1000-burgers/logoanim.mp4",
       "palette": [
         "#7A1A2C",
         "#E8505B",
         "#F3D9C4"
       ],
-      "summary": "A bold, number-led identity for a burger joint that never stops flipping.",
-      "services": [
+      "summary": "A bold identity for a focused gourmet burger concept built around the idea of quantity.",
+      "intro": "A bold identity for a focused gourmet burger concept built around the idea of quantity.\n\nThe visual language turns “1000” into a playful graphic device, creating a brand that feels excessive, energetic and unmistakably burger-obsessed.",
+      "role": [
         "Brand Identity",
+        "Art Direction",
         "Packaging",
-        "Motion",
-        "Social",
-        "Merchandise"
+        "Visual Applications"
       ],
-      "info": "1000 Burgers is built around one idea: counting. The identity uses a stacked numeral system in deep burgundy and cream. It appears on bags, boxes, fry sleeves, dip cups and staff tees, alongside lines like “Keep ’em coming” and “Too hungry to count.” Motion and social content bring the count to life.",
+      "tools": [
+        "After Effects",
+        "Illustrator",
+        "Figma",
+        "Photoshop"
+      ],
+      "collaborators": [],
+      "links": [
+        {
+          "label": "View Live Project",
+          "url": "https://betrindiafoodworks.com/1000burgers"
+        }
+      ],
       "blocks": [
         {
           "type": "media",
-          "ratio": "1600/900",
-          "video": "assets/media/works/1000-burgers/6-1.mp4",
-          "image": "assets/media/works/1000-burgers/6-1-poster.jpg"
+          "ratio": "16/9",
+          "bleed": true,
+          "image": "assets/media/works/1000-burgers/6-1-poster.jpg",
+          "video": "assets/media/works/1000-burgers/6-1.mp4"
         },
         {
           "type": "text",
-          "heading": "The idea",
-          "body": "The name becomes the system. Zeros stack, count up and repeat across every surface, turning the menu, the packaging and the loyalty stickers into one long running tally."
+          "label": "Role",
+          "heading": "My Role",
+          "body": "Developed the visual identity and graphic language for 1000 Burgers, translating the brand's idea of quantity into a bold and flexible system across packaging, communication and physical touchpoints.",
+          "kicker": "Brand Identity · Art Direction · Packaging · Visual Applications"
+        },
+        {
+          "type": "text",
+          "label": "01",
+          "heading": "The Context",
+          "body": "1000 Burgers is built around doing one thing exceptionally well: burgers. With a deliberately focused offering, the challenge was to create an identity that could make this singular focus feel expansive, playful and memorable."
+        },
+        {
+          "type": "text",
+          "label": "02",
+          "heading": "The Idea",
+          "body": "The name 1000 Burgers became the starting point for the identity. Rather than treating “1000” as simply a number, it became a visual expression of excess, repetition and an almost obsessive love for burgers.\n\nThe idea is pushed further through the transformation of the burger itself, compressing and morphing it into the “0” within 1000.",
+          "kicker": "Quantity culture."
+        },
+        {
+          "type": "divider",
+          "title": "Process",
+          "note": "From the burger-to-zero morph to the repeating numeral system."
         },
         {
           "type": "media",
-          "ratio": "1600/900",
-          "video": "assets/media/works/1000-burgers/logoanim.mp4",
-          "image": "assets/media/works/1000-burgers/logoanim-poster.jpg"
+          "ratio": "16/9",
+          "bleed": false,
+          "image": "assets/media/works/1000-burgers/logoanim-poster.jpg",
+          "video": "assets/media/works/1000-burgers/logoanim.mp4"
         },
         {
           "type": "media",
-          "ratio": "1600/900",
-          "video": "assets/media/works/1000-burgers/comp-1-1.mp4",
-          "image": "assets/media/works/1000-burgers/comp-1-1-poster.jpg"
+          "ratio": "16/9",
+          "bleed": false,
+          "image": "assets/media/works/1000-burgers/comp-1-1-poster.jpg",
+          "video": "assets/media/works/1000-burgers/comp-1-1.mp4"
+        },
+        {
+          "type": "text",
+          "label": "03",
+          "heading": "The Identity",
+          "body": "The identity uses bold typography, repetition and oversized graphic forms to create a visual language that feels abundant and unapologetic. The number 1000 becomes a recurring graphic device, allowing the brand to stay recognisable across different applications.\n\nThe system balances the playful idea of excess with a focused and confident visual character."
+        },
+        {
+          "type": "text",
+          "label": "04",
+          "heading": "The Visual System",
+          "body": "Repetition became a key part of the visual language, extending the idea of quantity beyond the name. Burger-inspired graphics, stickers and modular compositions create a flexible system that can be scaled across packaging, merchandise and communication."
+        },
+        {
+          "type": "media",
+          "ratio": "16/9",
+          "bleed": false,
+          "image": "assets/media/works/1000-burgers/numberstickers3.webp",
+          "video": ""
+        },
+        {
+          "type": "divider",
+          "title": "Final Deliverables",
+          "note": "Packaging, stickers, merchandise and promotional graphics."
+        },
+        {
+          "type": "text",
+          "label": "05",
+          "heading": "The Applications",
+          "body": "The identity was extended across packaging, stickers, physical brand touchpoints and promotional graphics, allowing the idea of 1000 to become part of the experience rather than simply a name."
+        },
+        {
+          "type": "media",
+          "ratio": "16/9",
+          "bleed": true,
+          "image": "assets/media/works/1000-burgers/burgerss.webp",
+          "video": ""
         },
         {
           "type": "pair",
+          "ratio": "4/5",
           "items": [
             {
-              "ratio": "4/5",
               "image": "assets/media/works/1000-burgers/bag3.webp",
               "video": ""
             },
             {
-              "ratio": "4/5",
               "image": "assets/media/works/1000-burgers/burger.webp",
               "video": ""
             }
           ]
         },
         {
-          "type": "media",
-          "ratio": "1537/923",
-          "image": "assets/media/works/1000-burgers/burgerss.webp",
-          "video": ""
-        },
-        {
           "type": "pair",
+          "ratio": "1/1",
           "items": [
             {
-              "ratio": "1/1",
               "image": "assets/media/works/1000-burgers/dips.webp",
               "video": ""
             },
             {
-              "ratio": "1/1",
               "image": "assets/media/works/1000-burgers/fries.webp",
               "video": ""
             }
@@ -441,31 +378,20 @@
         },
         {
           "type": "media",
-          "ratio": "1600/900",
-          "video": "assets/media/works/1000-burgers/flipping-1.mp4",
-          "image": "assets/media/works/1000-burgers/flipping-1-poster.jpg"
-        },
-        {
-          "type": "text",
-          "heading": "Count it up",
-          "body": "Number stickers track progress — from “Just getting started” to “Almost there” — rewarding regulars for every burger on the way to a thousand."
-        },
-        {
-          "type": "media",
-          "ratio": "2400/1067",
-          "image": "assets/media/works/1000-burgers/numberstickers3.webp",
-          "video": ""
+          "ratio": "16/9",
+          "bleed": true,
+          "image": "assets/media/works/1000-burgers/flipping-1-poster.jpg",
+          "video": "assets/media/works/1000-burgers/flipping-1.mp4"
         },
         {
           "type": "pair",
+          "ratio": "4/5",
           "items": [
             {
-              "ratio": "4/5",
               "image": "assets/media/works/1000-burgers/frame-100.webp",
               "video": ""
             },
             {
-              "ratio": "4/5",
               "image": "assets/media/works/1000-burgers/slide.webp",
               "video": ""
             }
@@ -473,243 +399,357 @@
         },
         {
           "type": "media",
-          "ratio": "1600/736",
-          "video": "assets/media/works/1000-burgers/stories-2.mp4",
-          "image": "assets/media/works/1000-burgers/stories-2-poster.jpg"
-        },
-        {
-          "type": "credits",
-          "credits": [
-            {
-              "label": "Design",
-              "value": "Priya Shah"
-            },
-            {
-              "label": "Type",
-              "value": "Brand identity · Packaging"
-            },
-            {
-              "label": "Year",
-              "value": "2026"
-            }
-          ]
+          "ratio": "16/9",
+          "bleed": true,
+          "image": "assets/media/works/1000-burgers/stories-2-poster.jpg",
+          "video": "assets/media/works/1000-burgers/stories-2.mp4"
         }
       ]
     },
     {
-      "slug": "gender-and-gesture",
-      "title": "Gender & Gesture",
-      "client": "Gender & Gesture Exhibition",
-      "year": "2025",
+      "slug": "silair",
+      "title": "Silair",
+      "year": "2026",
       "categories": [
-        "branding",
-        "art-direction"
+        "packaging",
+        "product-viz",
+        "3d"
       ],
       "tags": [
-        "Branding",
-        "Exhibition"
+        "Packaging",
+        "Product Visualization",
+        "3D"
       ],
       "featured": true,
-      "cover": "assets/media/works/gender-and-gesture/slide1.webp",
-      "coverVideo": "assets/media/works/gender-and-gesture/hovervid.mp4",
+      "cover": "assets/media/works/silair/render1.webp",
+      "coverFocus": "50% 50%",
+      "coverVideo": "assets/media/works/silair/0001-0250.mp4",
       "palette": [
-        "#3A0F2E",
-        "#8E1B6D",
-        "#E40002"
+        "#B8172F",
+        "#F08A5D",
+        "#C9D86A"
       ],
-      "summary": "An exhibition identity for a photography show on gesture and the fluid narratives of gender.",
-      "services": [
-        "Exhibition Identity",
-        "Logo Design",
-        "Typography",
-        "Print",
-        "Environmental Graphics"
+      "summary": "A premium sparkling water brand inspired by the landscapes and heritage of Rajasthan.",
+      "intro": "A premium sparkling water brand inspired by the landscapes and heritage of Rajasthan.\n\nSilair brings together purity, mindful luxury and regional storytelling through a distinctive identity, can system and product world.",
+      "role": [
+        "Brand Strategy",
+        "Brand Identity",
+        "Packaging",
+        "Product Visualisation",
+        "Art Direction"
       ],
-      "info": "Gender & Gesture is an identity for a photography exhibition about how gesture expresses and reshapes gender. The mark joins a camera shutter with a starburst, and the fragmented display type disrupts uniformity. Red, magenta, black and white run across posters, banners, passes and stationery.",
+      "tools": [
+        "After Effects",
+        "Blender 3D",
+        "Illustrator",
+        "Photoshop"
+      ],
+      "collaborators": [],
+      "links": [],
       "blocks": [
         {
           "type": "media",
-          "ratio": "1600/900",
-          "video": "assets/media/works/gender-and-gesture/hovervid.mp4",
-          "image": "assets/media/works/gender-and-gesture/hovervid-poster.jpg"
+          "ratio": "16/9",
+          "bleed": true,
+          "image": "assets/media/works/silair/0001-0250-poster.jpg",
+          "video": "assets/media/works/silair/0001-0250.mp4"
         },
         {
           "type": "text",
-          "heading": "The mark",
-          "body": "The logo echoes the segmented movement of a camera shutter — photography’s power to capture fleeting gestures — and takes the form of a starburst, symbolising expressive energy and the breaking of boundaries."
+          "label": "Role",
+          "heading": "My Role",
+          "body": "Developed the brand concept and visual identity for Silair, translating its connection to Siliserh Lake and Rajasthan into a contemporary can system and product world. The project also involved packaging design and creating the final product visualisations.",
+          "kicker": "Brand Strategy · Brand Identity · Packaging · Product Visualisation · Art Direction"
+        },
+        {
+          "type": "text",
+          "label": "01",
+          "heading": "The Context",
+          "body": "Premium sparkling water is a crowded shelf where most brands speak the same cool, minimal language. The opportunity was to give Silair a sense of origin — a brand that feels rooted in a real place while still belonging to a contemporary lifestyle."
+        },
+        {
+          "type": "text",
+          "label": "02",
+          "heading": "The Idea",
+          "body": "Silair takes its name and narrative from Siliserh Lake in Rajasthan, using the landscape as the foundation for the brand story. The identity interprets the region through flowing forms and ornamental details, connecting the natural source of the water with its cultural surroundings.\n\nThe aim was to create a sparkling water brand that feels rooted in place while still belonging to a contemporary premium lifestyle.",
+          "kicker": "Born from Siliserh Lake."
+        },
+        {
+          "type": "divider",
+          "title": "Process",
+          "note": "Ideation sketches, illustration and the dieline."
         },
         {
           "type": "media",
-          "ratio": "1404/789",
-          "image": "assets/media/works/gender-and-gesture/logo-explanation.webp",
+          "ratio": "16/9",
+          "bleed": false,
+          "image": "assets/media/works/silair/ideations.webp",
+          "video": ""
+        },
+        {
+          "type": "text",
+          "label": "03",
+          "heading": "The Identity",
+          "body": "An ornamental wordmark and hand-drawn swirls of fruit and water carry the story of the lake onto every can. Each flavour — peach, lime and blackberry — gets its own colour world, while the shared illustration style keeps the range unmistakably Silair."
+        },
+        {
+          "type": "pair",
+          "ratio": "1/1",
+          "items": [
+            {
+              "image": "assets/media/works/silair/bgpeach-poster.jpg",
+              "video": "assets/media/works/silair/bgpeach.mp4"
+            },
+            {
+              "image": "assets/media/works/silair/comp-1-3-poster.jpg",
+              "video": "assets/media/works/silair/comp-1-3.mp4"
+            }
+          ]
+        },
+        {
+          "type": "media",
+          "ratio": "16/9",
+          "bleed": false,
+          "image": "assets/media/works/silair/combined-dieline-1-poster.jpg",
+          "video": "assets/media/works/silair/combined-dieline-1.mp4"
+        },
+        {
+          "type": "divider",
+          "title": "Final Deliverables",
+          "note": "The can system, multipacks and the 3D product world."
+        },
+        {
+          "type": "text",
+          "label": "04",
+          "heading": "The Packaging",
+          "body": "The can system translates the brand story into a bold, cohesive product family. Each flavour is given its own colour and graphic treatment, while the shared structure and visual language keep the range recognisably Silair.\n\nThe elongated can format and expressive graphics give the sparkling water a distinctive presence, balancing shelf impact with a more considered premium character."
+        },
+        {
+          "type": "media",
+          "ratio": "16/9",
+          "bleed": true,
+          "image": "assets/media/works/silair/render3.webp",
           "video": ""
         },
         {
           "type": "pair",
+          "ratio": "1/1",
           "items": [
             {
-              "ratio": "4/3",
-              "image": "assets/media/works/gender-and-gesture/sketch.webp",
+              "image": "assets/media/works/silair/render4.webp",
               "video": ""
             },
             {
-              "ratio": "4/3",
-              "image": "assets/media/works/gender-and-gesture/artboard-1.webp",
+              "image": "assets/media/works/silair/render5.webp",
               "video": ""
             }
           ]
+        },
+        {
+          "type": "media",
+          "ratio": "16/9",
+          "bleed": false,
+          "image": "assets/media/works/silair/secondary-packaging.webp",
+          "video": ""
+        },
+        {
+          "type": "media",
+          "ratio": "16/9",
+          "bleed": false,
+          "image": "assets/media/works/silair/tertiary-packaging.webp",
+          "video": ""
         },
         {
           "type": "text",
-          "heading": "Type & colour",
-          "body": "Fragmented display type embodies gender fluidity and the redefinition of form, set against the Meutas sans for information."
+          "label": "05",
+          "heading": "The Product World",
+          "body": "Product visualisation became an extension of the brand identity, placing the cans within a carefully constructed world of colour, light and material. The renders explore Silair as both a refreshing product and a premium lifestyle object."
         },
         {
           "type": "media",
-          "ratio": "1424/433",
-          "image": "assets/media/works/gender-and-gesture/colour-font.webp",
-          "video": ""
-        },
-        {
-          "type": "media",
-          "ratio": "1280/720",
-          "image": "assets/media/works/gender-and-gesture/slide10.webp",
-          "video": ""
-        },
-        {
-          "type": "media",
-          "ratio": "2400/1600",
-          "image": "assets/media/works/gender-and-gesture/posters.webp",
-          "video": ""
+          "ratio": "16/9",
+          "bleed": true,
+          "image": "assets/media/works/silair/0001-0060-poster.jpg",
+          "video": "assets/media/works/silair/0001-0060.mp4"
         },
         {
           "type": "pair",
+          "ratio": "16/9",
           "items": [
             {
-              "ratio": "1280/720",
-              "image": "assets/media/works/gender-and-gesture/slide6.webp",
-              "video": ""
+              "image": "assets/media/works/silair/0001-0040-poster.jpg",
+              "video": "assets/media/works/silair/0001-0040.mp4"
             },
             {
-              "ratio": "1280/720",
-              "image": "assets/media/works/gender-and-gesture/slide8.webp",
-              "video": ""
+              "image": "assets/media/works/silair/0001-0045-poster.jpg",
+              "video": "assets/media/works/silair/0001-0045.mp4"
             }
           ]
         },
         {
           "type": "media",
-          "ratio": "1404/534",
-          "image": "assets/media/works/gender-and-gesture/colour-fontt.webp",
+          "ratio": "16/9",
+          "bleed": false,
+          "image": "assets/media/works/silair/stackk4.webp",
           "video": ""
         },
         {
-          "type": "credits",
-          "credits": [
-            {
-              "label": "Design",
-              "value": "Priya Shah"
-            },
-            {
-              "label": "Type",
-              "value": "Exhibition identity"
-            },
-            {
-              "label": "Year",
-              "value": "2025"
-            }
-          ]
+          "type": "media",
+          "ratio": "16/9",
+          "bleed": true,
+          "image": "assets/media/works/silair/render6.webp",
+          "video": ""
         }
       ]
     },
     {
       "slug": "ibaco",
       "title": "Ibaco",
-      "client": "Ibaco",
       "year": "2025",
       "categories": [
         "branding",
-        "packaging"
+        "packaging",
+        "illustration"
       ],
       "tags": [
-        "Rebrand",
-        "Packaging"
+        "Branding",
+        "Packaging",
+        "Illustration"
       ],
       "featured": true,
       "cover": "assets/media/works/ibaco/cover.webp",
+      "coverFocus": "50% 50%",
       "coverVideo": "",
       "palette": [
         "#EF4444",
         "#F2EEE3",
         "#5B3426"
       ],
-      "summary": "A playful rebrand for an ice cream brand — your ice cream destination.",
-      "services": [
-        "Rebrand",
-        "Logo Design",
-        "Packaging",
+      "summary": "Reimagining Ibaco as an ice cream destination inspired by flavours from around the world.",
+      "intro": "Reimagining Ibaco as an ice cream destination inspired by flavours from around the world.\n\nThe identity turns its 36-flavour range into a visual journey through landmarks, illustrations and playful brand experiences.",
+      "role": [
+        "Brand Identity",
         "Illustration",
-        "Merchandise",
-        "Social"
+        "Packaging",
+        "Visual Direction"
       ],
-      "info": "A rebrand for Ibaco that makes it a global ice cream destination. The dot above the “i” becomes a location pin. The “C” is an open mouth and the “O” a scoop of ice cream. Illustrated landmarks from around the world form a pattern that runs across tubs, sticks, aprons, menus and a food truck.",
+      "tools": [
+        "Figma",
+        "Illustrator",
+        "Photoshop"
+      ],
+      "collaborators": [
+        "Vaishvik Kalva",
+        "Aleta Jibi",
+        "Diya Gupta"
+      ],
+      "links": [],
+      "heroCompare": {
+        "before": "assets/media/works/ibaco/rebrand-old.webp",
+        "after": "assets/media/works/ibaco/rebrand-new.webp",
+        "hint": "Hover to see the old logo",
+        "hintTouch": "Drag to compare"
+      },
       "blocks": [
         {
-          "type": "media",
-          "ratio": "1920/1080",
-          "image": "assets/media/works/ibaco/rebrand.webp",
-          "video": ""
+          "type": "text",
+          "label": "Role",
+          "heading": "My Role",
+          "body": "Collaborated on the rebranding of Ibaco, contributing to the visual identity, illustration system and packaging applications. I developed the landmark-based illustration concept that became a key part of the new brand language.",
+          "kicker": "Brand Identity · Illustration · Packaging · Visual Direction"
         },
         {
           "type": "text",
-          "heading": "The logo",
-          "body": "The dot above the “i” acts as a location pin, representing Ibaco’s global reach and diverse flavours. The “C” is an open mouth and the “O” a scoop — capturing the indulgence of enjoying ice cream."
+          "label": "01",
+          "heading": "The Context",
+          "body": "Ibaco had a strong product offering, but its existing visual identity had become inconsistent across packaging, communication and digital touchpoints. The opportunity was to create a more contemporary and cohesive identity while retaining the variety that made the brand distinctive."
+        },
+        {
+          "type": "text",
+          "label": "02",
+          "heading": "The Idea",
+          "body": "Ibaco's 36 flavours take inspiration from different parts of the world. Rather than treating this variety as a list of products, the identity turns each flavour into a destination, pairing it with landmarks and visual references from its place of inspiration.\n\nThese illustrations became the foundation for a playful visual world that communicates Ibaco's global range while giving each flavour its own story.",
+          "kicker": "36 flavours. 36 destinations."
+        },
+        {
+          "type": "divider",
+          "title": "Process",
+          "note": "Landmark illustrations and the new wordmark."
         },
         {
           "type": "media",
-          "ratio": "1920/1080",
-          "image": "assets/media/works/ibaco/logoexplainer.webp",
-          "video": ""
-        },
-        {
-          "type": "media",
-          "ratio": "1920/1141",
+          "ratio": "16/9",
+          "bleed": false,
           "image": "assets/media/works/ibaco/1.webp",
           "video": ""
         },
         {
+          "type": "text",
+          "label": "03",
+          "heading": "The Identity",
+          "body": "The new identity builds on the idea of discovery and destination. The dot above the “i” becomes a location pin, while the relationship between the “c” and “o” references an open mouth and a scoop of ice cream.\n\nA refined wordmark and simplified visual language give the brand a more contemporary presence while keeping its playful character intact."
+        },
+        {
           "type": "media",
-          "ratio": "1920/582",
-          "image": "assets/media/works/ibaco/divider.webp",
+          "ratio": "16/9",
+          "bleed": false,
+          "image": "assets/media/works/ibaco/logoexplainer.webp",
           "video": ""
         },
         {
           "type": "text",
-          "heading": "Packaging",
-          "body": "Each flavour gets its own colour and an illustration that spills off the tub."
+          "label": "04",
+          "heading": "The Visual System",
+          "body": "The landmark illustrations were developed as a flexible visual library, allowing the identity to shift between flavours and applications while remaining recognisably Ibaco. A warm red, cream and chocolate palette gives the system a playful but grounded character."
+        },
+        {
+          "type": "pair",
+          "ratio": "1/1",
+          "items": [
+            {
+              "image": "assets/media/works/ibaco/stickers.webp",
+              "video": ""
+            },
+            {
+              "image": "assets/media/works/ibaco/ice-cream-sticks.webp",
+              "video": ""
+            }
+          ]
+        },
+        {
+          "type": "divider",
+          "title": "Final Deliverables",
+          "note": "Packaging, menus, merchandise, digital and spaces."
+        },
+        {
+          "type": "text",
+          "label": "05",
+          "heading": "The Applications",
+          "body": "The system was extended across packaging, menus, digital experiences, merchandise and physical spaces, allowing the idea of an ice cream destination to exist beyond the product itself."
         },
         {
           "type": "media",
-          "ratio": "1920/1080",
+          "ratio": "16/9",
+          "bleed": true,
           "image": "assets/media/works/ibaco/packaging1.webp",
           "video": ""
         },
         {
           "type": "media",
-          "ratio": "1920/1080",
+          "ratio": "16/9",
+          "bleed": false,
           "image": "assets/media/works/ibaco/packaging2.webp",
           "video": ""
         },
         {
           "type": "pair",
+          "ratio": "4/5",
           "items": [
             {
-              "ratio": "4/5",
               "image": "assets/media/works/ibaco/tubs.webp",
               "video": ""
             },
             {
-              "ratio": "4/5",
               "image": "assets/media/works/ibaco/sticks.webp",
               "video": ""
             }
@@ -717,202 +757,358 @@
         },
         {
           "type": "media",
-          "ratio": "1920/1080",
-          "image": "assets/media/works/ibaco/mocks.webp",
-          "video": ""
-        },
-        {
-          "type": "media",
-          "ratio": "1920/1080",
+          "ratio": "16/9",
+          "bleed": false,
           "image": "assets/media/works/ibaco/packaging.webp",
           "video": ""
         },
         {
           "type": "media",
-          "ratio": "1920/1080",
-          "image": "assets/media/works/ibaco/filler.webp",
+          "ratio": "16/9",
+          "bleed": false,
+          "image": "assets/media/works/ibaco/mocks.webp",
           "video": ""
         },
         {
-          "type": "text",
-          "heading": "Touchpoints",
-          "body": "Menus, aprons, stickers and a truck that brings scoops from every corner of the globe."
-        },
-        {
           "type": "media",
-          "ratio": "1920/1080",
+          "ratio": "16/9",
+          "bleed": true,
           "image": "assets/media/works/ibaco/menu.webp",
           "video": ""
         },
         {
           "type": "media",
-          "ratio": "1920/1080",
+          "ratio": "16/9",
+          "bleed": false,
           "image": "assets/media/works/ibaco/apron.webp",
           "video": ""
         },
         {
           "type": "media",
-          "ratio": "2400/1802",
-          "image": "assets/media/works/ibaco/stickers.webp",
+          "ratio": "16/9",
+          "bleed": false,
+          "image": "assets/media/works/ibaco/filler.webp",
           "video": ""
         },
         {
           "type": "media",
-          "ratio": "1920/1080",
+          "ratio": "16/9",
+          "bleed": true,
           "image": "assets/media/works/ibaco/truck.webp",
           "video": ""
         },
         {
           "type": "media",
-          "ratio": "1920/1080",
+          "ratio": "16/9",
+          "bleed": false,
           "image": "assets/media/works/ibaco/social.webp",
+          "video": ""
+        }
+      ]
+    },
+    {
+      "slug": "gender-and-gesture",
+      "title": "Gender & Gesture",
+      "year": "2025",
+      "categories": [
+        "branding",
+        "art-direction"
+      ],
+      "tags": [
+        "Branding",
+        "Art Direction"
+      ],
+      "featured": false,
+      "cover": "assets/media/works/gender-and-gesture/slide1.webp",
+      "coverFocus": "50% 50%",
+      "coverFit": "contain",
+      "coverBg": "#1c0d17",
+      "coverVideo": "assets/media/works/gender-and-gesture/hovervid.mp4",
+      "palette": [
+        "#3A0F2E",
+        "#8E1B6D",
+        "#E40002"
+      ],
+      "summary": "An event identity exploring the relationship between gender, gesture and visual expression.",
+      "intro": "An event identity exploring the relationship between gender, gesture and visual expression.\n\nA fragmented visual language uses movement, form and photography to challenge fixed ideas of identity and expression.",
+      "role": [
+        "Event Branding",
+        "Visual Identity",
+        "Art Direction"
+      ],
+      "tools": [
+        "Illustrator",
+        "Photoshop"
+      ],
+      "collaborators": [],
+      "links": [],
+      "blocks": [
+        {
+          "type": "media",
+          "ratio": "16/9",
+          "bleed": true,
+          "image": "assets/media/works/gender-and-gesture/hovervid-poster.jpg",
+          "video": "assets/media/works/gender-and-gesture/hovervid.mp4"
+        },
+        {
+          "type": "text",
+          "label": "Role",
+          "heading": "My Role",
+          "body": "Developed the visual identity and event branding system, including the logo, typography, colour palette and promotional applications.",
+          "kicker": "Event Branding · Visual Identity · Art Direction"
+        },
+        {
+          "type": "text",
+          "label": "01",
+          "heading": "The Idea",
+          "body": "The identity explores gender as something fluid rather than fixed. A fragmented starburst form became the central visual device, representing movement, expression and the breaking of boundaries.\n\nThe logo draws from the segmented movement of a camera shutter, connecting photography with the idea of capturing fleeting gestures and different forms of identity.",
+          "kicker": "Expressive. Fluid. Undefined."
+        },
+        {
+          "type": "divider",
+          "title": "Process",
+          "note": "Sketches, the mark, type and colour."
+        },
+        {
+          "type": "pair",
+          "ratio": "1/1",
+          "items": [
+            {
+              "image": "assets/media/works/gender-and-gesture/sketch.webp",
+              "video": ""
+            },
+            {
+              "image": "assets/media/works/gender-and-gesture/artboard-1.webp",
+              "video": ""
+            }
+          ]
+        },
+        {
+          "type": "media",
+          "ratio": "16/9",
+          "bleed": false,
+          "image": "assets/media/works/gender-and-gesture/logo-explanation.webp",
           "video": ""
         },
         {
-          "type": "credits",
-          "credits": [
+          "type": "media",
+          "ratio": "16/9",
+          "bleed": false,
+          "image": "assets/media/works/gender-and-gesture/colour-font.webp",
+          "video": "",
+          "fit": "contain",
+          "bg": "#1d1d1f"
+        },
+        {
+          "type": "text",
+          "label": "02",
+          "heading": "The Visual System",
+          "body": "The visual language combines fragmented typography, expressive graphic forms and a red and purple palette to create a system that feels energetic and intentionally disruptive.\n\nPhotography and abstract gestures become part of the identity, allowing the system to shift between structured layouts and more expressive compositions."
+        },
+        {
+          "type": "divider",
+          "title": "Final Deliverables",
+          "note": "Exhibition graphics, passes, print and spatial applications."
+        },
+        {
+          "type": "text",
+          "label": "03",
+          "heading": "The Applications",
+          "body": "The identity was extended across exhibition graphics, passes, promotional material and spatial applications, creating a cohesive visual environment for the event."
+        },
+        {
+          "type": "media",
+          "ratio": "16/9",
+          "bleed": true,
+          "image": "assets/media/works/gender-and-gesture/posters.webp",
+          "video": ""
+        },
+        {
+          "type": "pair",
+          "ratio": "1/1",
+          "items": [
             {
-              "label": "Design",
-              "value": "Priya Shah"
+              "image": "assets/media/works/gender-and-gesture/colour-font-1.webp",
+              "video": ""
             },
             {
-              "label": "Type",
-              "value": "Rebrand · Packaging"
-            },
-            {
-              "label": "Year",
-              "value": "2025"
+              "image": "assets/media/works/gender-and-gesture/slide8.webp",
+              "video": "",
+              "focus": "58% 50%"
             }
           ]
+        },
+        {
+          "type": "media",
+          "ratio": "16/9",
+          "bleed": true,
+          "image": "assets/media/works/gender-and-gesture/slide10.webp",
+          "video": ""
+        },
+        {
+          "type": "media",
+          "ratio": "16/9",
+          "bleed": false,
+          "image": "assets/media/works/gender-and-gesture/slide6.webp",
+          "video": ""
+        },
+        {
+          "type": "media",
+          "ratio": "16/9",
+          "bleed": false,
+          "image": "assets/media/works/gender-and-gesture/colour-fontt.webp",
+          "video": "",
+          "fit": "contain",
+          "bg": "#1d1d1f"
         }
       ]
     },
     {
       "slug": "digital-sculpting",
       "title": "Digital Sculpting",
-      "client": "Personal project",
       "year": "2026",
       "categories": [
-        "product-viz",
-        "art-direction"
+        "3d"
       ],
       "tags": [
-        "3D",
-        "Sculpting"
+        "3D"
       ],
       "featured": false,
-      "cover": "assets/media/works/digital-sculpting/render-01.webp",
+      "cover": "assets/media/works/digital-sculpting/zbrush-document6.webp",
+      "coverFocus": "50% 50%",
       "coverVideo": "assets/media/works/digital-sculpting/zbrush-movie360.mp4",
       "palette": [
         "#1E1E20",
         "#6B6B70",
         "#C9C9CE"
       ],
-      "summary": "A character bust sculpted in ZBrush — tendrils, roses and a sculpted crown.",
-      "services": [
-        "Digital Sculpting",
-        "Character Design",
-        "3D"
+      "summary": "A digital sculpting study exploring organic forms, facial features and ornamental detail in ZBrush.",
+      "intro": "A digital sculpting study exploring organic forms, facial features and ornamental detail in ZBrush.\n\nRecreated from an existing sculpting reference as a first exploration into digital character sculpting.",
+      "role": [
+        "3D Sculpting",
+        "ZBrush"
       ],
-      "info": "A digital sculpture made in ZBrush: a character bust with flowing tendrils and a crown of roses. The project runs from early studies of facial form to a fully detailed sculpt, with a 360° turntable.",
+      "tools": [
+        "ZBrush"
+      ],
+      "collaborators": [],
+      "links": [
+        {
+          "label": "View Reference",
+          "url": "https://www.artstation.com/artwork/yJ03mx"
+        }
+      ],
       "blocks": [
         {
           "type": "media",
-          "ratio": "956/604",
-          "video": "assets/media/works/digital-sculpting/zbrush-movie360.mp4",
-          "image": "assets/media/works/digital-sculpting/zbrush-movie360-poster.jpg"
+          "ratio": "16/9",
+          "bleed": true,
+          "image": "assets/media/works/digital-sculpting/zbrush-movie360-poster.jpg",
+          "video": "assets/media/works/digital-sculpting/zbrush-movie360.mp4"
         },
         {
           "type": "text",
-          "heading": "Process",
-          "body": "Starting from anatomy studies of the face and eyes, the form was built up in stages — blocking, refining and adding the rose and tendril details last."
+          "label": "Role",
+          "heading": "My Role",
+          "body": "Recreated the reference sculpture in ZBrush as a study in digital sculpting, focusing on facial structure, organic forms and sculptural detailing.",
+          "kicker": "3D Sculpting · ZBrush"
+        },
+        {
+          "type": "text",
+          "label": "01",
+          "heading": "The Study",
+          "body": "The project began as an exercise in translating an existing sculpt into a 3D workflow. The focus was on understanding form, proportion and surface detail while developing familiarity with ZBrush's sculpting tools."
+        },
+        {
+          "type": "divider",
+          "title": "Process",
+          "note": "Blocking out the face, refining features and building detail."
+        },
+        {
+          "type": "media",
+          "ratio": "16/9",
+          "bleed": true,
+          "image": "assets/media/works/digital-sculpting/zbrush-screengrab01.webp",
+          "video": ""
         },
         {
           "type": "pair",
+          "ratio": "1/1",
           "items": [
             {
-              "ratio": "4/3",
               "image": "assets/media/works/digital-sculpting/progress.webp",
               "video": ""
             },
             {
-              "ratio": "4/3",
-              "image": "assets/media/works/digital-sculpting/progress1.webp",
+              "image": "assets/media/works/digital-sculpting/zbrush-document10.webp",
               "video": ""
             }
           ]
         },
         {
           "type": "media",
-          "ratio": "1180/491",
+          "ratio": "16/9",
+          "bleed": false,
+          "image": "assets/media/works/digital-sculpting/progress1.webp",
+          "video": ""
+        },
+        {
+          "type": "media",
+          "ratio": "16/9",
+          "bleed": false,
           "image": "assets/media/works/digital-sculpting/progress2.webp",
           "video": ""
         },
         {
+          "type": "text",
+          "label": "02",
+          "heading": "The Sculpt",
+          "body": "The final sculpt explores the original character's elongated forms, layered hair and ornamental details through my own reconstruction."
+        },
+        {
+          "type": "divider",
+          "title": "Final Deliverables",
+          "note": "Final renders of the finished sculpt."
+        },
+        {
+          "type": "text",
+          "label": "03",
+          "heading": "The Result",
+          "body": "A first exploration into digital sculpting, developed as a study of form, detail and the possibilities of working in ZBrush."
+        },
+        {
           "type": "pair",
+          "ratio": "1/1",
           "items": [
             {
-              "ratio": "1/1",
               "image": "assets/media/works/digital-sculpting/render-01.webp",
               "video": ""
             },
             {
-              "ratio": "1/1",
               "image": "assets/media/works/digital-sculpting/render-03.webp",
               "video": ""
             }
           ]
         },
         {
+          "type": "media",
+          "ratio": "16/9",
+          "bleed": true,
+          "image": "assets/media/works/digital-sculpting/zbrush-document8.webp",
+          "video": "",
+          "focus": "50% 30%"
+        },
+        {
           "type": "pair",
+          "ratio": "1/1",
           "items": [
             {
-              "ratio": "1/1",
               "image": "assets/media/works/digital-sculpting/zbrush-document7.webp",
               "video": ""
             },
             {
-              "ratio": "1/1",
               "image": "assets/media/works/digital-sculpting/zbrush-document9.webp",
               "video": ""
-            }
-          ]
-        },
-        {
-          "type": "pair",
-          "items": [
-            {
-              "ratio": "1/1",
-              "image": "assets/media/works/digital-sculpting/zbrush-document6.webp",
-              "video": ""
-            },
-            {
-              "ratio": "1/1",
-              "image": "assets/media/works/digital-sculpting/zbrush-document8.webp",
-              "video": ""
-            }
-          ]
-        },
-        {
-          "type": "media",
-          "ratio": "1536/864",
-          "image": "assets/media/works/digital-sculpting/zbrush-screengrab01.webp",
-          "video": ""
-        },
-        {
-          "type": "credits",
-          "credits": [
-            {
-              "label": "Design",
-              "value": "Priya Shah"
-            },
-            {
-              "label": "Software",
-              "value": "ZBrush"
-            },
-            {
-              "label": "Year",
-              "value": "2026"
             }
           ]
         }

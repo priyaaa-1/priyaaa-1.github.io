@@ -168,6 +168,7 @@ content:
                   - { name: company, label: Company, type: string }
                   - { name: role, label: Role, type: string }
                   - { name: period, label: "Period (e.g. 2024 — 2026)", type: string }
+                  - { name: note, label: One-line description, type: string }
       - name: faqs
         label: FAQs (About + Contact)
         type: object
@@ -222,17 +223,39 @@ content:
         fields:
           - { name: slug, label: "URL slug (lowercase-with-dashes)", type: string }
           - { name: title, label: Title, type: string }
-          - { name: client, label: Client, type: string }
           - { name: year, label: Year, type: string }
-          - { name: categories, label: Category IDs, type: string, list: true }
-          - { name: tags, label: Tags on card, type: string, list: true }
+          - { name: categories, label: "Filter category IDs (branding, packaging, illustration, motion, art-direction, product-viz, 3d)", type: string, list: true }
+          - { name: tags, label: Tags shown on the card, type: string, list: true }
           - { name: featured, label: Show on home page, type: boolean }
-          - { name: cover, label: Cover image, type: image }
-          - { name: coverVideo, label: Hover video (.mp4), type: file }
+          - { name: cover, label: Cover image (shown 3:4), type: image }
+          - { name: coverFocus, label: "Cover focus point (e.g. 50% 50%)", type: string }
+          - name: coverFit
+            label: Cover fit
+            type: select
+            options: { values: [cover, contain] }
+          - { name: coverBg, label: "Cover background colour (when fit = contain)", type: string }
+          - { name: coverVideo, label: Hover video on works page (.mp4), type: file }
           - { name: palette, label: Placeholder colours, type: string, list: true }
-          - { name: summary, label: Short summary, type: text }
-          - { name: services, label: Services / type, type: string, list: true }
-          - { name: info, label: Info paragraph, type: text }
+          - { name: summary, label: One-line summary (home page), type: text }
+          - { name: intro, label: "Intro text (blank line = new paragraph)", type: text }
+          - { name: role, label: Role, type: string, list: true }
+          - { name: tools, label: Tools / software, type: string, list: true }
+          - { name: collaborators, label: Collaborators, type: string, list: true }
+          - name: links
+            label: Pill buttons in the intro
+            type: object
+            list: true
+            fields:
+              - { name: label, label: Label, type: string }
+              - { name: url, label: URL, type: string }
+          - name: heroCompare
+            label: Before / after hero (optional — replaces the cover in the intro)
+            type: object
+            fields:
+              - { name: before, label: Old version (underneath), type: image }
+              - { name: after, label: New version (on top), type: image }
+              - { name: hint, label: Hint on desktop, type: string }
+              - { name: hintTouch, label: Hint on phone/tablet, type: string }
           - name: blocks
             label: Case study content
             type: object
@@ -241,21 +264,34 @@ content:
               - name: type
                 label: Block type
                 type: select
-                options: { values: [media, text, pair, credits] }
-              - { name: image, label: "Image (media block)", type: image }
-              - { name: video, label: "Video (media block)", type: file }
-              - { name: ratio, label: "Aspect ratio (media block)", type: string }
-              - { name: label, label: Placeholder label, type: string }
-              - { name: heading, label: "Heading (text block)", type: string }
-              - { name: body, label: "Body (text block)", type: text }
-              - { name: items, label: "Two images (pair block)", type: media-item, list: true }
-              - name: credits
-                label: "Credits (credits block)"
+                options: { values: [media, pair, text, divider] }
+              - name: ratio
+                label: "Aspect ratio (media / pair)"
+                type: select
+                options: { values: ["16/9", "4/5", "1/1"] }
+              - { name: bleed, label: "Edge-to-edge, no rounded corners (use on 3–4 per project)", type: boolean }
+              - { name: image, label: "Image / video poster (media)", type: image }
+              - { name: video, label: "Video .mp4 (media)", type: file }
+              - { name: focus, label: "Focus point (e.g. 50% 30%)", type: string }
+              - name: fit
+                label: Fit
+                type: select
+                options: { values: [cover, contain] }
+              - { name: bg, label: "Background colour (fit = contain)", type: string }
+              - name: items
+                label: "Two images (pair)"
                 type: object
                 list: true
                 fields:
-                  - { name: label, label: Role, type: string }
-                  - { name: value, label: Name, type: string }
+                  - { name: image, label: Image / poster, type: image }
+                  - { name: video, label: Video .mp4, type: file }
+                  - { name: focus, label: Focus point, type: string }
+              - { name: label, label: "Small label (text) e.g. 01 or Role", type: string }
+              - { name: heading, label: "Heading (text)", type: string }
+              - { name: kicker, label: "Statement line (text)", type: string }
+              - { name: body, label: "Body (text — blank line = new paragraph)", type: text }
+              - { name: title, label: "Divider title (e.g. Process, Final Deliverables)", type: string }
+              - { name: note, label: "Divider note", type: string }
 
   # ---------------------------------------------------------------- ARCHIVE
   - name: archive

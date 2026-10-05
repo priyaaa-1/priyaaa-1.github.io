@@ -48,24 +48,19 @@
     "formEndpoint": "https://formsubmit.co/ajax/priya1902shah@gmail.com",
     "formSubject": "New enquiry from your portfolio",
     "successMessage": "Thank you — your message is on its way. I'll reply within a couple of days.",
-    "location": "Mumbai, India",
+    "location": "Hyderabad, India",
     "timezone": "Asia/Kolkata"
   },
   "socials": [
     {
       "label": "LinkedIn",
-      "url": "https://www.linkedin.com/",
+      "url": "https://www.linkedin.com/in/priyashah--/",
       "icon": "linkedin"
     },
     {
       "label": "Behance",
-      "url": "https://www.behance.net/",
+      "url": "https://www.behance.net/priyashah-",
       "icon": "behance"
-    },
-    {
-      "label": "Instagram",
-      "url": "https://www.instagram.com/",
-      "icon": "instagram"
     }
   ],
   "home": {
@@ -99,7 +94,7 @@
     "works": {
       "eyebrow": "Selected works",
       "heading": "Work that *feels* considered.",
-      "count": 5,
+      "count": 4,
       "gradient": [
         "#6410AD",
         "#7B2CC4",
@@ -215,29 +210,40 @@
       "heading": "Experience",
       "items": [
         {
-          "company": "Halo Bureau",
-          "role": "Lead Visual Architect",
-          "period": "2026 — Present"
+          "company": "ANTAGONIZT",
+          "role": "Brand and 3D Designer",
+          "period": "Jan 2026 — Present",
+          "note": ""
         },
         {
-          "company": "Sonder & Co",
-          "role": "Head of Brand Experience",
-          "period": "2024 — 2026"
+          "company": "Moonkraft Studio",
+          "role": "Visual Designer",
+          "period": "Apr 2026 — Jun 2026",
+          "note": "Packaging, brand identities and digital and motion work for startup clients."
         },
         {
-          "company": "Freelancer",
-          "role": "Interaction Designer",
-          "period": "2021 — 2024"
+          "company": "Lixotic Technologies",
+          "role": "User Interface Designer",
+          "period": "May 2025 — Sep 2025",
+          "note": "End-to-end UI/UX for a mobile app — design system, 46+ screens and its visual identity."
         },
         {
-          "company": "Drift Studio",
-          "role": "Identity Designer",
-          "period": "2018 — 2021"
+          "company": "MARK Creative Agency",
+          "role": "Brand Designer",
+          "period": "May 2025 — Jul 2025",
+          "note": "Logos, type systems and colour palettes, plus motion graphics in After Effects."
         },
         {
-          "company": "Pale Horse Creative",
-          "role": "Design Associate",
-          "period": "2015 — 2018"
+          "company": "Woxsen Times",
+          "role": "Layout Head",
+          "period": "Apr 2024 — May 2025",
+          "note": "Rebranded the university newspaper and art-directed 9 editions."
+        },
+        {
+          "company": "Babul Films Society NGO",
+          "role": "Visual Designer",
+          "period": "Jun 2024",
+          "note": "Social content and promotional videos for the Babul Eco Film Festival."
         }
       ]
     }
