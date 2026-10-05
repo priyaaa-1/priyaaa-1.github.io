@@ -1,0 +1,288 @@
+{
+  "meta": {
+    "title": "Priya Shah — Identity, Packaging & Motion Designer",
+    "description": "Ideas made tangible through identity, packaging and motion. Built with concept, direction and detail.",
+    "favicon": "assets/media/logo.svg"
+  },
+  "theme": {
+    "primary": "#6410AD",
+    "base": "#F8F3EF",
+    "ink": "#1B1023",
+    "tint": "#D9C2E8",
+    "radius": "10px",
+    "displayFont": "Aglio Picasso",
+    "bodyFont": "Neue Montreal",
+    "localFonts": false
+  },
+  "brand": {
+    "firstName": "Priya",
+    "lastName": "Shah",
+    "logo": "assets/media/logo.svg",
+    "logoAlt": "Priya Shah logo"
+  },
+  "nav": [
+    {
+      "label": "Works",
+      "href": "works.html"
+    },
+    {
+      "label": "Services",
+      "href": "index.html#services"
+    },
+    {
+      "label": "About",
+      "href": "about.html"
+    },
+    {
+      "label": "Archive",
+      "href": "archive.html"
+    }
+  ],
+  "navCta": {
+    "label": "Contact",
+    "href": "contact.html"
+  },
+  "contact": {
+    "heading": "Let's stay in touch",
+    "email": "priya1902shah@gmail.com",
+    "formEndpoint": "https://formsubmit.co/ajax/priya1902shah@gmail.com",
+    "formSubject": "New enquiry from your portfolio",
+    "successMessage": "Thank you — your message is on its way. I'll reply within a couple of days.",
+    "location": "Mumbai, India",
+    "timezone": "Asia/Kolkata"
+  },
+  "socials": [
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/",
+      "icon": "linkedin"
+    },
+    {
+      "label": "Behance",
+      "url": "https://www.behance.net/",
+      "icon": "behance"
+    },
+    {
+      "label": "Instagram",
+      "url": "https://www.instagram.com/",
+      "icon": "instagram"
+    }
+  ],
+  "home": {
+    "hero": {
+      "variant": "split",
+      "tagline": "**_Ideas made tangible_** through **identity, packaging and motion.** Built with **concept, direction** and **detail.**",
+      "backgroundImage": "",
+      "categories": [
+        {
+          "label": "Branding",
+          "href": "works.html?filter=branding"
+        },
+        {
+          "label": "Packaging",
+          "href": "works.html?filter=packaging"
+        },
+        {
+          "label": "Product Visualization",
+          "href": "works.html?filter=product-viz"
+        },
+        {
+          "label": "Motion",
+          "href": "works.html?filter=motion"
+        },
+        {
+          "label": "Art Direction",
+          "href": "works.html?filter=art-direction"
+        }
+      ]
+    },
+    "works": {
+      "eyebrow": "Selected works",
+      "heading": "Work that *feels* considered.",
+      "count": 5,
+      "gradient": [
+        "#6410AD",
+        "#7B2CC4",
+        "#A452C6",
+        "#D98BB5"
+      ],
+      "backgroundImage": ""
+    },
+    "services": {
+      "eyebrow": "Services",
+      "heading": "What I do"
+    },
+    "testimonials": {
+      "heading": "Feedback"
+    }
+  },
+  "services": [
+    {
+      "title": "Art Direction",
+      "description": "Concept development, visual direction, styling, composition, and creating a cohesive visual language across a project.",
+      "image": "assets/media/works/the-commons/the-commons-02.webp",
+      "palette": [
+        "#3b2a1f",
+        "#8a6a4f"
+      ],
+      "video": ""
+    },
+    {
+      "title": "Brand Identity + Visual Systems",
+      "description": "Building distinctive brand worlds through typography, colour, graphic language, and flexible visual systems that work across different touchpoints.",
+      "image": "assets/media/works/gender-and-gesture/slide10.webp",
+      "palette": [
+        "#2a1a4a",
+        "#c19ae6"
+      ],
+      "video": ""
+    },
+    {
+      "title": "Packaging Design",
+      "description": "Developing packaging from concept and structural design to graphics, dielines, materials, and 3D presentation.",
+      "image": "assets/media/works/silair/secondary-packaging.webp",
+      "palette": [
+        "#5a2d1a",
+        "#f0a875"
+      ],
+      "video": ""
+    },
+    {
+      "title": "Motion Graphics",
+      "description": "Creating movement-led visual stories through kinetic typography, graphic animation, transitions, 3D motion, and dynamic brand experiences.",
+      "image": "assets/media/works/1000-burgers/logoanim-poster.jpg",
+      "palette": [
+        "#2c2a22",
+        "#857653"
+      ],
+      "video": "assets/media/works/1000-burgers/logoanim.mp4"
+    },
+    {
+      "title": "3D + Product Visualisation",
+      "description": "Creating 3D objects, products, environments, and visual worlds through modelling, materials, lighting, composition, and rendering.",
+      "image": "assets/media/works/digital-sculpting/render-01.webp",
+      "palette": [
+        "#14304a",
+        "#7fb4d9"
+      ],
+      "video": ""
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "Authenticity without performativity is a delicate balance, much like a dance that flows effortlessly. Structure without rigidity allows for creativity to flourish.",
+      "name": "Simone de Beauvoir",
+      "role": "Founder at Asylum Studio",
+      "avatar": ""
+    },
+    {
+      "quote": "Priya took a half-formed idea and turned it into a brand our customers instantly recognise. Every detail was considered.",
+      "name": "Client Name",
+      "role": "Creative Director, Placeholder Co.",
+      "avatar": ""
+    },
+    {
+      "quote": "The packaging system she built for us scaled across forty SKUs without losing any of its character. A rare mix of concept and craft.",
+      "name": "Client Name",
+      "role": "Head of Brand, Placeholder Studio",
+      "avatar": ""
+    }
+  ],
+  "about": {
+    "eyebrow": "About",
+    "intro": "I'm Priya — a designer shaping *identities, packaging and motion* for brands that care about the details.",
+    "body": "Placeholder bio. Write two or three sentences about your background, what drives your practice and the kind of collaborators you love working with. Keep it warm and specific.",
+    "portrait": "",
+    "process": {
+      "heading": "Process",
+      "description": "Every project begins with understanding the brand's purpose, then evolves into a visual system that is distinctive, scalable, and built to create lasting impact.",
+      "steps": [
+        {
+          "title": "Discover & Research",
+          "description": "I dive into your brand, audience, and market to uncover insights that shape a strong, purposeful creative direction."
+        },
+        {
+          "title": "Design & Refine",
+          "description": "I explore concepts, test materials and finishes, refining every detail until the packaging feels effortless."
+        },
+        {
+          "title": "Deliver & Launch",
+          "description": "I finalize production-ready files and mockups, ensuring your packaging translates flawlessly onto the shelf."
+        }
+      ]
+    },
+    "experience": {
+      "heading": "Experience",
+      "items": [
+        {
+          "company": "Halo Bureau",
+          "role": "Lead Visual Architect",
+          "period": "2026 — Present"
+        },
+        {
+          "company": "Sonder & Co",
+          "role": "Head of Brand Experience",
+          "period": "2024 — 2026"
+        },
+        {
+          "company": "Freelancer",
+          "role": "Interaction Designer",
+          "period": "2021 — 2024"
+        },
+        {
+          "company": "Drift Studio",
+          "role": "Identity Designer",
+          "period": "2018 — 2021"
+        },
+        {
+          "company": "Pale Horse Creative",
+          "role": "Design Associate",
+          "period": "2015 — 2018"
+        }
+      ]
+    }
+  },
+  "faqs": {
+    "heading": "FAQs",
+    "items": [
+      {
+        "question": "What kind of work do you take on?",
+        "answer": "Brand identity, packaging, motion and product visualisation — mostly for studios, founders, and teams who care about typography and craft."
+      },
+      {
+        "question": "How long does a typical project take?",
+        "answer": "Most identity and packaging projects run four to eight weeks depending on scope. You'll get a clear timeline before anything starts."
+      },
+      {
+        "question": "What do you need to get started?",
+        "answer": "A short brief on your goals, audience, and timeline. If you don't have one yet, we'll shape it together on a first call."
+      },
+      {
+        "question": "Do you work with teams or solo founders?",
+        "answer": "Both. I've worked embedded with product teams and one-to-one with founders — the process adapts either way."
+      },
+      {
+        "question": "What are your rates?",
+        "answer": "Projects are quoted as a fixed fee based on scope, so the cost is clear up front. Retainers are available for ongoing work."
+      },
+      {
+        "question": "How do we start working together?",
+        "answer": "Send a note through the contact form. I'll reply within a couple of days and we'll set up an intro call."
+      }
+    ]
+  },
+  "archive": {
+    "heading": "Archive",
+    "description": "A gallery dump of experiments, process, stills and motion — the work between the work."
+  },
+  "worksPage": {
+    "heading": "Selected Work",
+    "description": "A **curated** collection of projects built around **strong ideas** and **distinctive design.**"
+  },
+  "footer": {
+    "heading": "Have an idea? *Let's make it tangible.*",
+    "buttonLabel": "Start a project",
+    "buttonHref": "contact.html",
+    "copyright": "Priya Shah. All rights reserved."
+  }
+}

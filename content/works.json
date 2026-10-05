@@ -1,0 +1,922 @@
+{
+  "categories": [
+    {
+      "id": "branding",
+      "label": "Branding"
+    },
+    {
+      "id": "packaging",
+      "label": "Packaging"
+    },
+    {
+      "id": "product-viz",
+      "label": "Product Visualization"
+    },
+    {
+      "id": "motion",
+      "label": "Motion"
+    },
+    {
+      "id": "art-direction",
+      "label": "Art Direction"
+    }
+  ],
+  "projects": [
+    {
+      "slug": "the-commons",
+      "title": "The Commons",
+      "client": "The Commons",
+      "year": "2026",
+      "categories": [
+        "branding",
+        "art-direction",
+        "motion"
+      ],
+      "tags": [
+        "Branding",
+        "Art Direction"
+      ],
+      "featured": true,
+      "cover": "assets/media/works/the-commons/cover.webp",
+      "coverVideo": "assets/media/works/the-commons/comp-1-1.mp4",
+      "palette": [
+        "#7879CC",
+        "#ED6E2B",
+        "#F8F3EF"
+      ],
+      "summary": "An identity for a community pickleball club built around movement, connection and shared experiences.",
+      "services": [
+        "Brand Identity",
+        "Brand Guidelines",
+        "Art Direction",
+        "Motion",
+        "Merchandise",
+        "Social"
+      ],
+      "info": "The Commons is a neighbourhood pickleball club where the court is the meeting point. The identity pairs Rally Orange with Court Violet, Club Canvas and Ace Lilac. A ball-dot motif and a looped logomark carry the system from the court to the café counter. The tone is warm, social and a little competitive: Rally. Connect. Repeat.",
+      "blocks": [
+        {
+          "type": "media",
+          "ratio": "1600/900",
+          "video": "assets/media/works/the-commons/comp-1-1.mp4",
+          "image": "assets/media/works/the-commons/comp-1-1-poster.jpg"
+        },
+        {
+          "type": "text",
+          "heading": "The idea",
+          "body": "Court time > screen time. The brand positions the club as a third place — somewhere to play, linger and meet people. Every touchpoint borrows from the game: ball perforations, court lines and the rhythm of a rally."
+        },
+        {
+          "type": "media",
+          "ratio": "1600/900",
+          "video": "assets/media/works/the-commons/logo-1.mp4",
+          "image": "assets/media/works/the-commons/logo-1-poster.jpg"
+        },
+        {
+          "type": "pair",
+          "items": [
+            {
+              "ratio": "1920/2400",
+              "image": "assets/media/works/the-commons/instagram-post-25.webp",
+              "video": ""
+            },
+            {
+              "ratio": "1920/2400",
+              "image": "assets/media/works/the-commons/the-commons-02.webp",
+              "video": ""
+            }
+          ]
+        },
+        {
+          "type": "media",
+          "ratio": "2400/1236",
+          "image": "assets/media/works/the-commons/colourpalette.webp",
+          "video": ""
+        },
+        {
+          "type": "media",
+          "ratio": "2400/1473",
+          "image": "assets/media/works/the-commons/brandguidelines.webp",
+          "video": ""
+        },
+        {
+          "type": "text",
+          "heading": "On court",
+          "body": "Wayfinding, community rules and court posters use bold type and colour-blocked panels so they read from across the court, while staying friendly up close."
+        },
+        {
+          "type": "media",
+          "ratio": "2400/1600",
+          "image": "assets/media/works/the-commons/court-poster-1.webp",
+          "video": ""
+        },
+        {
+          "type": "media",
+          "ratio": "2400/1600",
+          "image": "assets/media/works/the-commons/court-poster-display-3.webp",
+          "video": ""
+        },
+        {
+          "type": "text",
+          "heading": "Courtside",
+          "body": "The café menu is printed on paddle-shaped boards — Courtside Sips, Bites and Treats — with ball-pattern coasters to match."
+        },
+        {
+          "type": "media",
+          "ratio": "1920/1080",
+          "image": "assets/media/works/the-commons/menuss.webp",
+          "video": ""
+        },
+        {
+          "type": "media",
+          "ratio": "1672/941",
+          "image": "assets/media/works/the-commons/coasterswithmenu.webp",
+          "video": ""
+        },
+        {
+          "type": "pair",
+          "items": [
+            {
+              "ratio": "4/5",
+              "image": "assets/media/works/the-commons/enamelpns.webp",
+              "video": ""
+            },
+            {
+              "ratio": "4/5",
+              "image": "assets/media/works/the-commons/instagram-post-31.webp",
+              "video": ""
+            }
+          ]
+        },
+        {
+          "type": "media",
+          "ratio": "2400/1286",
+          "image": "assets/media/works/the-commons/ender-08.webp",
+          "video": ""
+        },
+        {
+          "type": "media",
+          "ratio": "2400/1350",
+          "image": "assets/media/works/the-commons/socials2.webp",
+          "video": ""
+        },
+        {
+          "type": "media",
+          "ratio": "1600/900",
+          "video": "assets/media/works/the-commons/comp-1.mp4",
+          "image": "assets/media/works/the-commons/comp-1-poster.jpg"
+        },
+        {
+          "type": "credits",
+          "credits": [
+            {
+              "label": "Design",
+              "value": "Priya Shah"
+            },
+            {
+              "label": "Type",
+              "value": "Brand identity"
+            },
+            {
+              "label": "Year",
+              "value": "2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "silair",
+      "title": "Silair",
+      "client": "Silair",
+      "year": "2026",
+      "categories": [
+        "packaging",
+        "product-viz",
+        "motion"
+      ],
+      "tags": [
+        "Packaging",
+        "3D"
+      ],
+      "featured": true,
+      "cover": "assets/media/works/silair/render1.webp",
+      "coverVideo": "assets/media/works/silair/0001-0250.mp4",
+      "palette": [
+        "#B8172F",
+        "#F08A5D",
+        "#C9D86A"
+      ],
+      "summary": "Packaging, 3D visualisation and motion for a range of sparkling fruit beverages.",
+      "services": [
+        "Packaging Design",
+        "Illustration",
+        "Dielines",
+        "3D Visualisation",
+        "Motion"
+      ],
+      "info": "Silair is a sparkling beverage range in peach, lime and blackberry. Each can carries a hand-drawn swirl of fruit and fizz that wraps around a sharp, blackletter-inspired wordmark. The project covers the full packaging system, from can to multipack to shipping carton, and is rendered and animated in 3D.",
+      "blocks": [
+        {
+          "type": "media",
+          "ratio": "1600/900",
+          "video": "assets/media/works/silair/0001-0250.mp4",
+          "image": "assets/media/works/silair/0001-0250-poster.jpg"
+        },
+        {
+          "type": "text",
+          "heading": "Concept",
+          "body": "Each flavour gets its own colour world and an illustrated ribbon of fruit that moves around the can, so the range reads as a family on shelf but every can has its own personality."
+        },
+        {
+          "type": "pair",
+          "items": [
+            {
+              "ratio": "1/1",
+              "video": "assets/media/works/silair/bgpeach.mp4",
+              "image": "assets/media/works/silair/bgpeach-poster.jpg"
+            },
+            {
+              "ratio": "1/1",
+              "video": "assets/media/works/silair/comp-1-3.mp4",
+              "image": "assets/media/works/silair/comp-1-3-poster.jpg"
+            }
+          ]
+        },
+        {
+          "type": "media",
+          "ratio": "1280/720",
+          "image": "assets/media/works/silair/ideations.webp",
+          "video": ""
+        },
+        {
+          "type": "text",
+          "heading": "Range",
+          "body": "Peach, lime and blackberry, each lit and rendered in its own colour world."
+        },
+        {
+          "type": "media",
+          "ratio": "1920/1080",
+          "image": "assets/media/works/silair/render3.webp",
+          "video": ""
+        },
+        {
+          "type": "media",
+          "ratio": "1920/1080",
+          "image": "assets/media/works/silair/render4.webp",
+          "video": ""
+        },
+        {
+          "type": "media",
+          "ratio": "1920/1080",
+          "image": "assets/media/works/silair/render5.webp",
+          "video": ""
+        },
+        {
+          "type": "media",
+          "ratio": "1600/900",
+          "video": "assets/media/works/silair/combined-dieline-1.mp4",
+          "image": "assets/media/works/silair/combined-dieline-1-poster.jpg"
+        },
+        {
+          "type": "text",
+          "heading": "System",
+          "body": "From the primary can to the secondary four-pack and the tertiary shipping carton, the packaging scales without losing the swirl."
+        },
+        {
+          "type": "media",
+          "ratio": "2400/1800",
+          "image": "assets/media/works/silair/secondary-packaging.webp",
+          "video": ""
+        },
+        {
+          "type": "media",
+          "ratio": "2400/1800",
+          "image": "assets/media/works/silair/tertiary-packaging.webp",
+          "video": ""
+        },
+        {
+          "type": "media",
+          "ratio": "1920/1177",
+          "image": "assets/media/works/silair/stackk4.webp",
+          "video": ""
+        },
+        {
+          "type": "pair",
+          "items": [
+            {
+              "ratio": "1600/900",
+              "video": "assets/media/works/silair/0001-0040.mp4",
+              "image": "assets/media/works/silair/0001-0040-poster.jpg"
+            },
+            {
+              "ratio": "1600/900",
+              "video": "assets/media/works/silair/0001-0045.mp4",
+              "image": "assets/media/works/silair/0001-0045-poster.jpg"
+            }
+          ]
+        },
+        {
+          "type": "media",
+          "ratio": "2176/908",
+          "image": "assets/media/works/silair/render6.webp",
+          "video": ""
+        },
+        {
+          "type": "media",
+          "ratio": "1920/655",
+          "image": "assets/media/works/silair/social.webp",
+          "video": ""
+        },
+        {
+          "type": "credits",
+          "credits": [
+            {
+              "label": "Design",
+              "value": "Priya Shah"
+            },
+            {
+              "label": "Type",
+              "value": "Packaging · 3D · Motion"
+            },
+            {
+              "label": "Year",
+              "value": "2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "1000-burgers",
+      "title": "1000 Burgers",
+      "client": "1000 Burgers",
+      "year": "2026",
+      "categories": [
+        "branding",
+        "packaging",
+        "motion",
+        "art-direction"
+      ],
+      "tags": [
+        "Branding",
+        "Packaging"
+      ],
+      "featured": true,
+      "cover": "assets/media/works/1000-burgers/cover.webp",
+      "coverVideo": "assets/media/works/1000-burgers/6-1.mp4",
+      "palette": [
+        "#7A1A2C",
+        "#E8505B",
+        "#F3D9C4"
+      ],
+      "summary": "A bold, number-led identity for a burger joint that never stops flipping.",
+      "services": [
+        "Brand Identity",
+        "Packaging",
+        "Motion",
+        "Social",
+        "Merchandise"
+      ],
+      "info": "1000 Burgers is built around one idea: counting. The identity uses a stacked numeral system in deep burgundy and cream. It appears on bags, boxes, fry sleeves, dip cups and staff tees, alongside lines like “Keep ’em coming” and “Too hungry to count.” Motion and social content bring the count to life.",
+      "blocks": [
+        {
+          "type": "media",
+          "ratio": "1600/900",
+          "video": "assets/media/works/1000-burgers/6-1.mp4",
+          "image": "assets/media/works/1000-burgers/6-1-poster.jpg"
+        },
+        {
+          "type": "text",
+          "heading": "The idea",
+          "body": "The name becomes the system. Zeros stack, count up and repeat across every surface, turning the menu, the packaging and the loyalty stickers into one long running tally."
+        },
+        {
+          "type": "media",
+          "ratio": "1600/900",
+          "video": "assets/media/works/1000-burgers/logoanim.mp4",
+          "image": "assets/media/works/1000-burgers/logoanim-poster.jpg"
+        },
+        {
+          "type": "media",
+          "ratio": "1600/900",
+          "video": "assets/media/works/1000-burgers/comp-1-1.mp4",
+          "image": "assets/media/works/1000-burgers/comp-1-1-poster.jpg"
+        },
+        {
+          "type": "pair",
+          "items": [
+            {
+              "ratio": "4/5",
+              "image": "assets/media/works/1000-burgers/bag3.webp",
+              "video": ""
+            },
+            {
+              "ratio": "4/5",
+              "image": "assets/media/works/1000-burgers/burger.webp",
+              "video": ""
+            }
+          ]
+        },
+        {
+          "type": "media",
+          "ratio": "1537/923",
+          "image": "assets/media/works/1000-burgers/burgerss.webp",
+          "video": ""
+        },
+        {
+          "type": "pair",
+          "items": [
+            {
+              "ratio": "1/1",
+              "image": "assets/media/works/1000-burgers/dips.webp",
+              "video": ""
+            },
+            {
+              "ratio": "1/1",
+              "image": "assets/media/works/1000-burgers/fries.webp",
+              "video": ""
+            }
+          ]
+        },
+        {
+          "type": "media",
+          "ratio": "1600/900",
+          "video": "assets/media/works/1000-burgers/flipping-1.mp4",
+          "image": "assets/media/works/1000-burgers/flipping-1-poster.jpg"
+        },
+        {
+          "type": "text",
+          "heading": "Count it up",
+          "body": "Number stickers track progress — from “Just getting started” to “Almost there” — rewarding regulars for every burger on the way to a thousand."
+        },
+        {
+          "type": "media",
+          "ratio": "2400/1067",
+          "image": "assets/media/works/1000-burgers/numberstickers3.webp",
+          "video": ""
+        },
+        {
+          "type": "pair",
+          "items": [
+            {
+              "ratio": "4/5",
+              "image": "assets/media/works/1000-burgers/frame-100.webp",
+              "video": ""
+            },
+            {
+              "ratio": "4/5",
+              "image": "assets/media/works/1000-burgers/slide.webp",
+              "video": ""
+            }
+          ]
+        },
+        {
+          "type": "media",
+          "ratio": "1600/736",
+          "video": "assets/media/works/1000-burgers/stories-2.mp4",
+          "image": "assets/media/works/1000-burgers/stories-2-poster.jpg"
+        },
+        {
+          "type": "credits",
+          "credits": [
+            {
+              "label": "Design",
+              "value": "Priya Shah"
+            },
+            {
+              "label": "Type",
+              "value": "Brand identity · Packaging"
+            },
+            {
+              "label": "Year",
+              "value": "2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "gender-and-gesture",
+      "title": "Gender & Gesture",
+      "client": "Gender & Gesture Exhibition",
+      "year": "2025",
+      "categories": [
+        "branding",
+        "art-direction"
+      ],
+      "tags": [
+        "Branding",
+        "Exhibition"
+      ],
+      "featured": true,
+      "cover": "assets/media/works/gender-and-gesture/slide1.webp",
+      "coverVideo": "assets/media/works/gender-and-gesture/hovervid.mp4",
+      "palette": [
+        "#3A0F2E",
+        "#8E1B6D",
+        "#E40002"
+      ],
+      "summary": "An exhibition identity for a photography show on gesture and the fluid narratives of gender.",
+      "services": [
+        "Exhibition Identity",
+        "Logo Design",
+        "Typography",
+        "Print",
+        "Environmental Graphics"
+      ],
+      "info": "Gender & Gesture is an identity for a photography exhibition about how gesture expresses and reshapes gender. The mark joins a camera shutter with a starburst, and the fragmented display type disrupts uniformity. Red, magenta, black and white run across posters, banners, passes and stationery.",
+      "blocks": [
+        {
+          "type": "media",
+          "ratio": "1600/900",
+          "video": "assets/media/works/gender-and-gesture/hovervid.mp4",
+          "image": "assets/media/works/gender-and-gesture/hovervid-poster.jpg"
+        },
+        {
+          "type": "text",
+          "heading": "The mark",
+          "body": "The logo echoes the segmented movement of a camera shutter — photography’s power to capture fleeting gestures — and takes the form of a starburst, symbolising expressive energy and the breaking of boundaries."
+        },
+        {
+          "type": "media",
+          "ratio": "1404/789",
+          "image": "assets/media/works/gender-and-gesture/logo-explanation.webp",
+          "video": ""
+        },
+        {
+          "type": "pair",
+          "items": [
+            {
+              "ratio": "4/3",
+              "image": "assets/media/works/gender-and-gesture/sketch.webp",
+              "video": ""
+            },
+            {
+              "ratio": "4/3",
+              "image": "assets/media/works/gender-and-gesture/artboard-1.webp",
+              "video": ""
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "Type & colour",
+          "body": "Fragmented display type embodies gender fluidity and the redefinition of form, set against the Meutas sans for information."
+        },
+        {
+          "type": "media",
+          "ratio": "1424/433",
+          "image": "assets/media/works/gender-and-gesture/colour-font.webp",
+          "video": ""
+        },
+        {
+          "type": "media",
+          "ratio": "1280/720",
+          "image": "assets/media/works/gender-and-gesture/slide10.webp",
+          "video": ""
+        },
+        {
+          "type": "media",
+          "ratio": "2400/1600",
+          "image": "assets/media/works/gender-and-gesture/posters.webp",
+          "video": ""
+        },
+        {
+          "type": "pair",
+          "items": [
+            {
+              "ratio": "1280/720",
+              "image": "assets/media/works/gender-and-gesture/slide6.webp",
+              "video": ""
+            },
+            {
+              "ratio": "1280/720",
+              "image": "assets/media/works/gender-and-gesture/slide8.webp",
+              "video": ""
+            }
+          ]
+        },
+        {
+          "type": "media",
+          "ratio": "1404/534",
+          "image": "assets/media/works/gender-and-gesture/colour-fontt.webp",
+          "video": ""
+        },
+        {
+          "type": "credits",
+          "credits": [
+            {
+              "label": "Design",
+              "value": "Priya Shah"
+            },
+            {
+              "label": "Type",
+              "value": "Exhibition identity"
+            },
+            {
+              "label": "Year",
+              "value": "2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "ibaco",
+      "title": "Ibaco",
+      "client": "Ibaco",
+      "year": "2025",
+      "categories": [
+        "branding",
+        "packaging"
+      ],
+      "tags": [
+        "Rebrand",
+        "Packaging"
+      ],
+      "featured": true,
+      "cover": "assets/media/works/ibaco/cover.webp",
+      "coverVideo": "",
+      "palette": [
+        "#EF4444",
+        "#F2EEE3",
+        "#5B3426"
+      ],
+      "summary": "A playful rebrand for an ice cream brand — your ice cream destination.",
+      "services": [
+        "Rebrand",
+        "Logo Design",
+        "Packaging",
+        "Illustration",
+        "Merchandise",
+        "Social"
+      ],
+      "info": "A rebrand for Ibaco that makes it a global ice cream destination. The dot above the “i” becomes a location pin. The “C” is an open mouth and the “O” a scoop of ice cream. Illustrated landmarks from around the world form a pattern that runs across tubs, sticks, aprons, menus and a food truck.",
+      "blocks": [
+        {
+          "type": "media",
+          "ratio": "1920/1080",
+          "image": "assets/media/works/ibaco/rebrand.webp",
+          "video": ""
+        },
+        {
+          "type": "text",
+          "heading": "The logo",
+          "body": "The dot above the “i” acts as a location pin, representing Ibaco’s global reach and diverse flavours. The “C” is an open mouth and the “O” a scoop — capturing the indulgence of enjoying ice cream."
+        },
+        {
+          "type": "media",
+          "ratio": "1920/1080",
+          "image": "assets/media/works/ibaco/logoexplainer.webp",
+          "video": ""
+        },
+        {
+          "type": "media",
+          "ratio": "1920/1141",
+          "image": "assets/media/works/ibaco/1.webp",
+          "video": ""
+        },
+        {
+          "type": "media",
+          "ratio": "1920/582",
+          "image": "assets/media/works/ibaco/divider.webp",
+          "video": ""
+        },
+        {
+          "type": "text",
+          "heading": "Packaging",
+          "body": "Each flavour gets its own colour and an illustration that spills off the tub."
+        },
+        {
+          "type": "media",
+          "ratio": "1920/1080",
+          "image": "assets/media/works/ibaco/packaging1.webp",
+          "video": ""
+        },
+        {
+          "type": "media",
+          "ratio": "1920/1080",
+          "image": "assets/media/works/ibaco/packaging2.webp",
+          "video": ""
+        },
+        {
+          "type": "pair",
+          "items": [
+            {
+              "ratio": "4/5",
+              "image": "assets/media/works/ibaco/tubs.webp",
+              "video": ""
+            },
+            {
+              "ratio": "4/5",
+              "image": "assets/media/works/ibaco/sticks.webp",
+              "video": ""
+            }
+          ]
+        },
+        {
+          "type": "media",
+          "ratio": "1920/1080",
+          "image": "assets/media/works/ibaco/mocks.webp",
+          "video": ""
+        },
+        {
+          "type": "media",
+          "ratio": "1920/1080",
+          "image": "assets/media/works/ibaco/packaging.webp",
+          "video": ""
+        },
+        {
+          "type": "media",
+          "ratio": "1920/1080",
+          "image": "assets/media/works/ibaco/filler.webp",
+          "video": ""
+        },
+        {
+          "type": "text",
+          "heading": "Touchpoints",
+          "body": "Menus, aprons, stickers and a truck that brings scoops from every corner of the globe."
+        },
+        {
+          "type": "media",
+          "ratio": "1920/1080",
+          "image": "assets/media/works/ibaco/menu.webp",
+          "video": ""
+        },
+        {
+          "type": "media",
+          "ratio": "1920/1080",
+          "image": "assets/media/works/ibaco/apron.webp",
+          "video": ""
+        },
+        {
+          "type": "media",
+          "ratio": "2400/1802",
+          "image": "assets/media/works/ibaco/stickers.webp",
+          "video": ""
+        },
+        {
+          "type": "media",
+          "ratio": "1920/1080",
+          "image": "assets/media/works/ibaco/truck.webp",
+          "video": ""
+        },
+        {
+          "type": "media",
+          "ratio": "1920/1080",
+          "image": "assets/media/works/ibaco/social.webp",
+          "video": ""
+        },
+        {
+          "type": "credits",
+          "credits": [
+            {
+              "label": "Design",
+              "value": "Priya Shah"
+            },
+            {
+              "label": "Type",
+              "value": "Rebrand · Packaging"
+            },
+            {
+              "label": "Year",
+              "value": "2025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "digital-sculpting",
+      "title": "Digital Sculpting",
+      "client": "Personal project",
+      "year": "2026",
+      "categories": [
+        "product-viz",
+        "art-direction"
+      ],
+      "tags": [
+        "3D",
+        "Sculpting"
+      ],
+      "featured": false,
+      "cover": "assets/media/works/digital-sculpting/render-01.webp",
+      "coverVideo": "assets/media/works/digital-sculpting/zbrush-movie360.mp4",
+      "palette": [
+        "#1E1E20",
+        "#6B6B70",
+        "#C9C9CE"
+      ],
+      "summary": "A character bust sculpted in ZBrush — tendrils, roses and a sculpted crown.",
+      "services": [
+        "Digital Sculpting",
+        "Character Design",
+        "3D"
+      ],
+      "info": "A digital sculpture made in ZBrush: a character bust with flowing tendrils and a crown of roses. The project runs from early studies of facial form to a fully detailed sculpt, with a 360° turntable.",
+      "blocks": [
+        {
+          "type": "media",
+          "ratio": "956/604",
+          "video": "assets/media/works/digital-sculpting/zbrush-movie360.mp4",
+          "image": "assets/media/works/digital-sculpting/zbrush-movie360-poster.jpg"
+        },
+        {
+          "type": "text",
+          "heading": "Process",
+          "body": "Starting from anatomy studies of the face and eyes, the form was built up in stages — blocking, refining and adding the rose and tendril details last."
+        },
+        {
+          "type": "pair",
+          "items": [
+            {
+              "ratio": "4/3",
+              "image": "assets/media/works/digital-sculpting/progress.webp",
+              "video": ""
+            },
+            {
+              "ratio": "4/3",
+              "image": "assets/media/works/digital-sculpting/progress1.webp",
+              "video": ""
+            }
+          ]
+        },
+        {
+          "type": "media",
+          "ratio": "1180/491",
+          "image": "assets/media/works/digital-sculpting/progress2.webp",
+          "video": ""
+        },
+        {
+          "type": "pair",
+          "items": [
+            {
+              "ratio": "1/1",
+              "image": "assets/media/works/digital-sculpting/render-01.webp",
+              "video": ""
+            },
+            {
+              "ratio": "1/1",
+              "image": "assets/media/works/digital-sculpting/render-03.webp",
+              "video": ""
+            }
+          ]
+        },
+        {
+          "type": "pair",
+          "items": [
+            {
+              "ratio": "1/1",
+              "image": "assets/media/works/digital-sculpting/zbrush-document7.webp",
+              "video": ""
+            },
+            {
+              "ratio": "1/1",
+              "image": "assets/media/works/digital-sculpting/zbrush-document9.webp",
+              "video": ""
+            }
+          ]
+        },
+        {
+          "type": "pair",
+          "items": [
+            {
+              "ratio": "1/1",
+              "image": "assets/media/works/digital-sculpting/zbrush-document6.webp",
+              "video": ""
+            },
+            {
+              "ratio": "1/1",
+              "image": "assets/media/works/digital-sculpting/zbrush-document8.webp",
+              "video": ""
+            }
+          ]
+        },
+        {
+          "type": "media",
+          "ratio": "1536/864",
+          "image": "assets/media/works/digital-sculpting/zbrush-screengrab01.webp",
+          "video": ""
+        },
+        {
+          "type": "credits",
+          "credits": [
+            {
+              "label": "Design",
+              "value": "Priya Shah"
+            },
+            {
+              "label": "Software",
+              "value": "ZBrush"
+            },
+            {
+              "label": "Year",
+              "value": "2026"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

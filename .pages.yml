@@ -1,0 +1,280 @@
+# Pages CMS config — https://pagescms.org
+# Sign in at https://app.pagescms.org with GitHub, open this repo, and every
+# field below becomes an editable form. Saving commits to GitHub, which
+# auto-redeploys the site (Netlify / Cloudflare Pages / Vercel / GitHub Pages).
+
+media:
+  input: assets/media
+  output: assets/media
+
+components:
+  link:
+    type: object
+    fields:
+      - { name: label, label: Label, type: string }
+      - { name: href, label: Link, type: string }
+  media-item:
+    type: object
+    fields:
+      - { name: image, label: Image (or video poster), type: image }
+      - { name: video, label: Video file path (optional, .mp4), type: file }
+      - { name: ratio, label: "Aspect ratio (e.g. 16/9, 4/5)", type: string }
+      - { name: label, label: Placeholder label, type: string }
+
+content:
+  # ---------------------------------------------------------------- SITE
+  - name: site
+    label: Site settings & pages
+    type: file
+    path: content/site.json
+    format: json
+    fields:
+      - name: meta
+        label: SEO
+        type: object
+        fields:
+          - { name: title, label: Browser title, type: string }
+          - { name: description, label: Description, type: text }
+          - { name: favicon, label: Favicon, type: image }
+      - name: theme
+        label: Theme (colours & fonts)
+        type: object
+        fields:
+          - { name: primary, label: "Primary colour (hex)", type: string }
+          - { name: base, label: "Base / background colour (hex)", type: string }
+          - { name: ink, label: "Body text colour (hex)", type: string }
+          - { name: tint, label: "Card tint colour (hex)", type: string }
+          - { name: radius, label: "Media corner radius (e.g. 10px)", type: string }
+          - { name: displayFont, label: Display font name, type: string }
+          - { name: bodyFont, label: Body font name, type: string }
+          - { name: localFonts, label: Load font files from assets/fonts, type: boolean }
+      - name: brand
+        label: Brand
+        type: object
+        fields:
+          - { name: firstName, label: First name, type: string }
+          - { name: lastName, label: Last name, type: string }
+          - { name: logo, label: Logo, type: image }
+          - { name: logoAlt, label: Logo alt text, type: string }
+      - { name: nav, label: Navigation, type: link, list: true }
+      - { name: navCta, label: Header button, type: link }
+      - name: contact
+        label: Contact
+        type: object
+        fields:
+          - { name: heading, label: Heading, type: string }
+          - { name: email, label: Email, type: string }
+          - { name: formEndpoint, label: "Form endpoint (FormSubmit / Formspree / Web3Forms URL)", type: string }
+          - { name: formSubject, label: Email subject for form messages, type: string }
+          - { name: successMessage, label: Success message, type: text }
+          - { name: location, label: Location, type: string }
+          - { name: timezone, label: "Timezone (e.g. Asia/Kolkata)", type: string }
+      - name: socials
+        label: Socials
+        type: object
+        list: true
+        fields:
+          - { name: label, label: Label, type: string }
+          - { name: url, label: URL, type: string }
+          - name: icon
+            label: Icon
+            type: select
+            options: { values: [linkedin, behance, instagram, dribbble, x, none] }
+      - name: home
+        label: Home page
+        type: object
+        fields:
+          - name: hero
+            label: Hero
+            type: object
+            fields:
+              - name: variant
+                label: Layout
+                type: select
+                options: { values: [split, centered] }
+              - { name: tagline, label: "Tagline (**bold**, _italic_)", type: text }
+              - { name: backgroundImage, label: Background image / video (optional), type: file }
+              - { name: categories, label: Category links, type: link, list: true }
+          - name: works
+            label: Works section
+            type: object
+            fields:
+              - { name: eyebrow, label: Small label, type: string }
+              - { name: heading, label: "Heading (*italic*)", type: string }
+              - { name: count, label: Number of featured works, type: number }
+              - { name: gradient, label: "Background gradient colours (hex, top → bottom)", type: string, list: true }
+              - { name: backgroundImage, label: Background image (overrides gradient), type: image }
+          - name: services
+            label: Services section
+            type: object
+            fields:
+              - { name: eyebrow, label: Small label, type: string }
+              - { name: heading, label: Heading, type: string }
+          - name: testimonials
+            label: Feedback section
+            type: object
+            fields:
+              - { name: heading, label: Heading, type: string }
+      - name: services
+        label: Services
+        type: object
+        list: true
+        fields:
+          - { name: title, label: Title, type: string }
+          - { name: description, label: Description, type: text }
+          - { name: image, label: Hover image, type: image }
+          - { name: video, label: Hover video (optional .mp4), type: file }
+          - { name: palette, label: Placeholder colours, type: string, list: true }
+      - name: testimonials
+        label: Testimonials
+        type: object
+        list: true
+        fields:
+          - { name: quote, label: Quote, type: text }
+          - { name: name, label: Name, type: string }
+          - { name: role, label: Role, type: string }
+          - { name: avatar, label: Photo, type: image }
+      - name: about
+        label: About page
+        type: object
+        fields:
+          - { name: eyebrow, label: Small label, type: string }
+          - { name: intro, label: "Intro (*italic*)", type: text }
+          - { name: body, label: Body, type: text }
+          - { name: portrait, label: Portrait, type: image }
+          - name: process
+            label: Process
+            type: object
+            fields:
+              - { name: heading, label: Heading, type: string }
+              - { name: description, label: Description, type: text }
+              - name: steps
+                label: Steps
+                type: object
+                list: true
+                fields:
+                  - { name: title, label: Title, type: string }
+                  - { name: description, label: Description, type: text }
+          - name: experience
+            label: Experience
+            type: object
+            fields:
+              - { name: heading, label: Heading, type: string }
+              - name: items
+                label: Roles
+                type: object
+                list: true
+                fields:
+                  - { name: company, label: Company, type: string }
+                  - { name: role, label: Role, type: string }
+                  - { name: period, label: "Period (e.g. 2024 — 2026)", type: string }
+      - name: faqs
+        label: FAQs (About + Contact)
+        type: object
+        fields:
+          - { name: heading, label: Heading, type: string }
+          - name: items
+            label: Questions
+            type: object
+            list: true
+            fields:
+              - { name: question, label: Question, type: string }
+              - { name: answer, label: Answer, type: text }
+      - name: worksPage
+        label: Works page
+        type: object
+        fields:
+          - { name: heading, label: Heading, type: string }
+          - { name: description, label: "Description (**bold**)", type: text }
+      - name: archive
+        label: Archive page
+        type: object
+        fields:
+          - { name: heading, label: Heading, type: string }
+          - { name: description, label: Description, type: text }
+      - name: footer
+        label: Footer
+        type: object
+        fields:
+          - { name: heading, label: "Heading (*italic*)", type: string }
+          - { name: buttonLabel, label: Button label, type: string }
+          - { name: buttonHref, label: Button link, type: string }
+          - { name: copyright, label: Copyright text, type: string }
+
+  # ---------------------------------------------------------------- WORKS
+  - name: works
+    label: Works / projects
+    type: file
+    path: content/works.json
+    format: json
+    fields:
+      - name: categories
+        label: Categories (filters)
+        type: object
+        list: true
+        fields:
+          - { name: id, label: "ID (lowercase, no spaces)", type: string }
+          - { name: label, label: Label, type: string }
+      - name: projects
+        label: Projects
+        type: object
+        list: true
+        fields:
+          - { name: slug, label: "URL slug (lowercase-with-dashes)", type: string }
+          - { name: title, label: Title, type: string }
+          - { name: client, label: Client, type: string }
+          - { name: year, label: Year, type: string }
+          - { name: categories, label: Category IDs, type: string, list: true }
+          - { name: tags, label: Tags on card, type: string, list: true }
+          - { name: featured, label: Show on home page, type: boolean }
+          - { name: cover, label: Cover image, type: image }
+          - { name: coverVideo, label: Hover video (.mp4), type: file }
+          - { name: palette, label: Placeholder colours, type: string, list: true }
+          - { name: summary, label: Short summary, type: text }
+          - { name: services, label: Services / type, type: string, list: true }
+          - { name: info, label: Info paragraph, type: text }
+          - name: blocks
+            label: Case study content
+            type: object
+            list: true
+            fields:
+              - name: type
+                label: Block type
+                type: select
+                options: { values: [media, text, pair, credits] }
+              - { name: image, label: "Image (media block)", type: image }
+              - { name: video, label: "Video (media block)", type: file }
+              - { name: ratio, label: "Aspect ratio (media block)", type: string }
+              - { name: label, label: Placeholder label, type: string }
+              - { name: heading, label: "Heading (text block)", type: string }
+              - { name: body, label: "Body (text block)", type: text }
+              - { name: items, label: "Two images (pair block)", type: media-item, list: true }
+              - name: credits
+                label: "Credits (credits block)"
+                type: object
+                list: true
+                fields:
+                  - { name: label, label: Role, type: string }
+                  - { name: value, label: Name, type: string }
+
+  # ---------------------------------------------------------------- ARCHIVE
+  - name: archive
+    label: Archive gallery
+    type: file
+    path: content/archive.json
+    format: json
+    fields:
+      - name: items
+        label: Items
+        type: object
+        list: true
+        fields:
+          - name: type
+            label: Type
+            type: select
+            options: { values: [image, video] }
+          - { name: src, label: File, type: file }
+          - { name: poster, label: Video poster image (optional), type: image }
+          - { name: ratio, label: "Aspect ratio (e.g. 4/5)", type: string }
+          - { name: caption, label: Caption, type: string }
+          - { name: palette, label: Placeholder colours, type: string, list: true }

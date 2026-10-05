@@ -1,0 +1,268 @@
+{
+  "items": [
+    {
+      "type": "image",
+      "src": "assets/media/works/gender-and-gesture/sketch.webp",
+      "poster": "",
+      "ratio": "1302/948",
+      "caption": "Logo sketches — Gender & Gesture",
+      "palette": [
+        "#6410AD",
+        "#D9C2E8"
+      ]
+    },
+    {
+      "type": "video",
+      "src": "assets/media/works/silair/0001-0060.mp4",
+      "poster": "assets/media/works/silair/0001-0060-poster.jpg",
+      "ratio": "1600/900",
+      "caption": "Silair can loop",
+      "palette": [
+        "#6410AD",
+        "#D9C2E8"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "assets/media/works/the-commons/instagram-post-31.webp",
+      "poster": "",
+      "ratio": "1920/2400",
+      "caption": "The Commons — social",
+      "palette": [
+        "#6410AD",
+        "#D9C2E8"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "assets/media/works/digital-sculpting/progress.webp",
+      "poster": "",
+      "ratio": "938/783",
+      "caption": "Sculpt study",
+      "palette": [
+        "#6410AD",
+        "#D9C2E8"
+      ]
+    },
+    {
+      "type": "video",
+      "src": "assets/media/works/1000-burgers/flipping-1.mp4",
+      "poster": "assets/media/works/1000-burgers/flipping-1-poster.jpg",
+      "ratio": "1600/900",
+      "caption": "On the grill",
+      "palette": [
+        "#6410AD",
+        "#D9C2E8"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "assets/media/works/ibaco/1.webp",
+      "poster": "",
+      "ratio": "1920/1141",
+      "caption": "Landmark illustrations — Ibaco",
+      "palette": [
+        "#6410AD",
+        "#D9C2E8"
+      ]
+    },
+    {
+      "type": "video",
+      "src": "assets/media/works/silair/bgpeach.mp4",
+      "poster": "assets/media/works/silair/bgpeach-poster.jpg",
+      "ratio": "800/790",
+      "caption": "Peach swirl",
+      "palette": [
+        "#6410AD",
+        "#D9C2E8"
+      ]
+    },
+    {
+      "type": "video",
+      "src": "assets/media/works/the-commons/comp-2-1.mp4",
+      "poster": "assets/media/works/the-commons/comp-2-1-poster.jpg",
+      "ratio": "1600/900",
+      "caption": "Social motion",
+      "palette": [
+        "#6410AD",
+        "#D9C2E8"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "assets/media/works/ibaco/ice-cream-sticks.webp",
+      "poster": "",
+      "ratio": "1280/960",
+      "caption": "Laser-cut sticks",
+      "palette": [
+        "#6410AD",
+        "#D9C2E8"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "assets/media/works/digital-sculpting/zbrush-document8.webp",
+      "poster": "",
+      "ratio": "2400/2400",
+      "caption": "Rose crown detail",
+      "palette": [
+        "#6410AD",
+        "#D9C2E8"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "assets/media/works/1000-burgers/frame-100.webp",
+      "poster": "",
+      "ratio": "1920/2400",
+      "caption": "Kitchen still",
+      "palette": [
+        "#6410AD",
+        "#D9C2E8"
+      ]
+    },
+    {
+      "type": "video",
+      "src": "assets/media/works/silair/0001-0045-2.mp4",
+      "poster": "assets/media/works/silair/0001-0045-2-poster.jpg",
+      "ratio": "1600/900",
+      "caption": "Can render",
+      "palette": [
+        "#6410AD",
+        "#D9C2E8"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "assets/media/works/gender-and-gesture/colour-font-1.webp",
+      "poster": "",
+      "ratio": "472/789",
+      "caption": "Exhibition passes",
+      "palette": [
+        "#6410AD",
+        "#D9C2E8"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "assets/media/works/the-commons/enamelpns.webp",
+      "poster": "",
+      "ratio": "1086/1448",
+      "caption": "Enamel pins",
+      "palette": [
+        "#6410AD",
+        "#D9C2E8"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "assets/media/works/ibaco/stickers-strip.webp",
+      "poster": "",
+      "ratio": "1280/320",
+      "caption": "Sticker sheet",
+      "palette": [
+        "#6410AD",
+        "#D9C2E8"
+      ]
+    },
+    {
+      "type": "video",
+      "src": "assets/media/works/the-commons/logo-1.mp4",
+      "poster": "assets/media/works/the-commons/logo-1-poster.jpg",
+      "ratio": "1600/900",
+      "caption": "Logo animation",
+      "palette": [
+        "#6410AD",
+        "#D9C2E8"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "assets/media/works/silair/ideations.webp",
+      "poster": "",
+      "ratio": "1280/720",
+      "caption": "Packaging ideations",
+      "palette": [
+        "#6410AD",
+        "#D9C2E8"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "assets/media/works/digital-sculpting/progress2.webp",
+      "poster": "",
+      "ratio": "1180/491",
+      "caption": "Eye study",
+      "palette": [
+        "#6410AD",
+        "#D9C2E8"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "assets/media/works/1000-burgers/slide.webp",
+      "poster": "",
+      "ratio": "1918/2160",
+      "caption": "Too hungry to count",
+      "palette": [
+        "#6410AD",
+        "#D9C2E8"
+      ]
+    },
+    {
+      "type": "video",
+      "src": "assets/media/works/the-commons/comp-1.mp4",
+      "poster": "assets/media/works/the-commons/comp-1-poster.jpg",
+      "ratio": "1600/900",
+      "caption": "Brand motion",
+      "palette": [
+        "#6410AD",
+        "#D9C2E8"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "assets/media/works/ibaco/filler.webp",
+      "poster": "",
+      "ratio": "1920/1080",
+      "caption": "Chocolate bar",
+      "palette": [
+        "#6410AD",
+        "#D9C2E8"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "assets/media/works/digital-sculpting/zbrush-screengrab01.webp",
+      "poster": "",
+      "ratio": "1536/864",
+      "caption": "Work in progress",
+      "palette": [
+        "#6410AD",
+        "#D9C2E8"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "assets/media/works/silair/render6.webp",
+      "poster": "",
+      "ratio": "2176/908",
+      "caption": "Silair stack",
+      "palette": [
+        "#6410AD",
+        "#D9C2E8"
+      ]
+    },
+    {
+      "type": "video",
+      "src": "assets/media/works/1000-burgers/stories-2.mp4",
+      "poster": "assets/media/works/1000-burgers/stories-2-poster.jpg",
+      "ratio": "1600/736",
+      "caption": "Story templates",
+      "palette": [
+        "#6410AD",
+        "#D9C2E8"
+      ]
+    }
+  ]
+}

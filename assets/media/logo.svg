@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Logo placeholder">
+  <!-- PLACEHOLDER LOGO: replace this file (keep the same name) with your own logo. It is used for the navbar and favicon. -->
+  <rect width="64" height="64" rx="14" fill="#6410AD"/>
+  <text x="32" y="43" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#F8F3EF" letter-spacing="-1">PS</text>
+</svg>
