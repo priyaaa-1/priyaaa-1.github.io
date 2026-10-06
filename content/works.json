@@ -17,7 +17,7 @@
       "label": "Motion"
     },
     {
-      "id": "art-direction",
+      "id": "art direction",
       "label": "Art Direction"
     },
     {
@@ -67,8 +67,6 @@
         "Figma",
         "Photoshop"
       ],
-      "collaborators": [],
-      "links": [],
       "blocks": [
         {
           "type": "media",
@@ -79,26 +77,30 @@
         },
         {
           "type": "text",
+          "bleed": false,
           "label": "Role",
           "heading": "My Role",
-          "body": "Developed the visual identity and graphic system for The Commons, translating the energy of pickleball into a playful and cohesive brand language across physical and digital touchpoints.",
-          "kicker": "Brand Identity · Art Direction · Visual System · Applications"
+          "kicker": "Brand Identity · Art Direction · Visual System · Applications",
+          "body": "Developed the visual identity and graphic system for The Commons, translating the energy of pickleball into a playful and cohesive brand language across physical and digital touchpoints."
         },
         {
           "type": "text",
+          "bleed": false,
           "label": "01",
           "heading": "The Context",
           "body": "The Commons is imagined as more than a place to play pickleball. It is a space built around bringing people together through play, movement and shared experiences. The challenge was to create an identity that could capture the energy of the sport while feeling social, approachable and distinctive."
         },
         {
           "type": "text",
+          "bleed": false,
           "label": "02",
           "heading": "The Idea",
-          "body": "The identity is built around the idea of the court as a shared space. Its lines, shapes and geometry become the foundation of the visual language, translating the physical energy of pickleball into something playful, social and dynamic.\n\nCourt markings are abstracted into bold graphic forms, creating a visual system that can move between the game, the brand and the wider community.",
-          "kicker": "Play. Connect. Belong."
+          "kicker": "Play. Connect. Belong.",
+          "body": "The identity is built around the idea of the court as a shared space. Its lines, shapes and geometry become the foundation of the visual language, translating the physical energy of pickleball into something playful, social and dynamic.\n\nCourt markings are abstracted into bold graphic forms, creating a visual system that can move between the game, the brand and the wider community."
         },
         {
           "type": "divider",
+          "bleed": false,
           "title": "Process",
           "note": "Logo, colour and the building blocks of the system."
         },
@@ -111,6 +113,7 @@
         },
         {
           "type": "text",
+          "bleed": false,
           "label": "03",
           "heading": "The Identity",
           "body": "A vibrant orange and layered purple palette gives the identity its energy, while rounded forms and compact typography keep it approachable. The system balances the competitive energy of sport with the relaxed, social character of a community space."
@@ -120,7 +123,6 @@
           "ratio": "16/9",
           "bleed": false,
           "image": "assets/media/works/the-commons/colourpalette.webp",
-          "video": "",
           "fit": "contain",
           "bg": "#F8F3EF"
         },
@@ -128,11 +130,11 @@
           "type": "media",
           "ratio": "16/9",
           "bleed": false,
-          "image": "assets/media/works/the-commons/brandguidelines.webp",
-          "video": ""
+          "image": "assets/media/works/the-commons/brandguidelines.webp"
         },
         {
           "type": "text",
+          "bleed": false,
           "label": "04",
           "heading": "The Visual System",
           "body": "The visual system combines court-inspired geometry, bold colour blocks, playful graphics and photography. These elements can be rearranged across different formats while maintaining a consistent and recognisable brand presence.\n\nPhotography focuses on movement, interaction and the people around the game, reinforcing The Commons as a social space rather than simply a sports venue."
@@ -140,24 +142,25 @@
         {
           "type": "pair",
           "ratio": "4/5",
+          "bleed": false,
           "items": [
             {
-              "image": "assets/media/works/the-commons/instagram-post-25.webp",
-              "video": ""
+              "image": "assets/media/works/the-commons/instagram-post-25.webp"
             },
             {
-              "image": "assets/media/works/the-commons/the-commons-02.webp",
-              "video": ""
+              "image": "assets/media/works/the-commons/the-commons-02.webp"
             }
           ]
         },
         {
           "type": "divider",
+          "bleed": false,
           "title": "Final Deliverables",
           "note": "Signage, equipment, merchandise, café and social."
         },
         {
           "type": "text",
+          "bleed": false,
           "label": "05",
           "heading": "The Applications",
           "body": "The identity extends across the physical and digital experience, from court signage and equipment to social communication and branded touchpoints. The same visual language keeps every part of the experience connected."
@@ -166,41 +169,36 @@
           "type": "media",
           "ratio": "16/9",
           "bleed": true,
-          "image": "assets/media/works/the-commons/court-poster-1.webp",
-          "video": ""
+          "image": "assets/media/works/the-commons/court-poster-1.webp"
         },
         {
           "type": "media",
           "ratio": "16/9",
           "bleed": false,
-          "image": "assets/media/works/the-commons/court-poster-display-3.webp",
-          "video": ""
+          "image": "assets/media/works/the-commons/court-poster-display-3.webp"
         },
         {
           "type": "media",
           "ratio": "16/9",
           "bleed": false,
-          "image": "assets/media/works/the-commons/menuss.webp",
-          "video": ""
+          "image": "assets/media/works/the-commons/menuss.webp"
         },
         {
           "type": "media",
           "ratio": "16/9",
           "bleed": true,
-          "image": "assets/media/works/the-commons/coasterswithmenu.webp",
-          "video": ""
+          "image": "assets/media/works/the-commons/coasterswithmenu.webp"
         },
         {
           "type": "pair",
           "ratio": "4/5",
+          "bleed": false,
           "items": [
             {
-              "image": "assets/media/works/the-commons/instagram-post-31.webp",
-              "video": ""
+              "image": "assets/media/works/the-commons/instagram-post-31.webp"
             },
             {
-              "image": "assets/media/works/the-commons/enamelpns.webp",
-              "video": ""
+              "image": "assets/media/works/the-commons/enamelpns.webp"
             }
           ]
         },
@@ -208,8 +206,7 @@
           "type": "media",
           "ratio": "16/9",
           "bleed": false,
-          "image": "assets/media/works/the-commons/socials2.webp",
-          "video": ""
+          "image": "assets/media/works/the-commons/socials2.webp"
         },
         {
           "type": "media",
@@ -257,7 +254,6 @@
         "Figma",
         "Photoshop"
       ],
-      "collaborators": [],
       "links": [
         {
           "label": "View Live Project",
@@ -274,26 +270,30 @@
         },
         {
           "type": "text",
+          "bleed": false,
           "label": "Role",
           "heading": "My Role",
-          "body": "Developed the visual identity and graphic language for 1000 Burgers, translating the brand's idea of quantity into a bold and flexible system across packaging, communication and physical touchpoints.",
-          "kicker": "Brand Identity · Art Direction · Packaging · Visual Applications"
+          "kicker": "Brand Identity · Art Direction · Packaging · Visual Applications",
+          "body": "Developed the visual identity and graphic language for 1000 Burgers, translating the brand's idea of quantity into a bold and flexible system across packaging, communication and physical touchpoints."
         },
         {
           "type": "text",
+          "bleed": false,
           "label": "01",
           "heading": "The Context",
           "body": "1000 Burgers is built around doing one thing exceptionally well: burgers. With a deliberately focused offering, the challenge was to create an identity that could make this singular focus feel expansive, playful and memorable."
         },
         {
           "type": "text",
+          "bleed": false,
           "label": "02",
           "heading": "The Idea",
-          "body": "The name 1000 Burgers became the starting point for the identity. Rather than treating “1000” as simply a number, it became a visual expression of excess, repetition and an almost obsessive love for burgers.\n\nThe idea is pushed further through the transformation of the burger itself, compressing and morphing it into the “0” within 1000.",
-          "kicker": "Quantity culture."
+          "kicker": "Quantity culture.",
+          "body": "The name 1000 Burgers became the starting point for the identity. Rather than treating “1000” as simply a number, it became a visual expression of excess, repetition and an almost obsessive love for burgers.\n\nThe idea is pushed further through the transformation of the burger itself, compressing and morphing it into the “0” within 1000."
         },
         {
           "type": "divider",
+          "bleed": false,
           "title": "Process",
           "note": "From the burger-to-zero morph to the repeating numeral system."
         },
@@ -313,12 +313,14 @@
         },
         {
           "type": "text",
+          "bleed": false,
           "label": "03",
           "heading": "The Identity",
           "body": "The identity uses bold typography, repetition and oversized graphic forms to create a visual language that feels abundant and unapologetic. The number 1000 becomes a recurring graphic device, allowing the brand to stay recognisable across different applications.\n\nThe system balances the playful idea of excess with a focused and confident visual character."
         },
         {
           "type": "text",
+          "bleed": false,
           "label": "04",
           "heading": "The Visual System",
           "body": "Repetition became a key part of the visual language, extending the idea of quantity beyond the name. Burger-inspired graphics, stickers and modular compositions create a flexible system that can be scaled across packaging, merchandise and communication."
@@ -327,16 +329,17 @@
           "type": "media",
           "ratio": "16/9",
           "bleed": false,
-          "image": "assets/media/works/1000-burgers/numberstickers3.webp",
-          "video": ""
+          "image": "assets/media/works/1000-burgers/numberstickers3.webp"
         },
         {
           "type": "divider",
+          "bleed": false,
           "title": "Final Deliverables",
           "note": "Packaging, stickers, merchandise and promotional graphics."
         },
         {
           "type": "text",
+          "bleed": false,
           "label": "05",
           "heading": "The Applications",
           "body": "The identity was extended across packaging, stickers, physical brand touchpoints and promotional graphics, allowing the idea of 1000 to become part of the experience rather than simply a name."
@@ -345,34 +348,31 @@
           "type": "media",
           "ratio": "16/9",
           "bleed": true,
-          "image": "assets/media/works/1000-burgers/burgerss.webp",
-          "video": ""
+          "image": "assets/media/works/1000-burgers/burgerss.webp"
         },
         {
           "type": "pair",
           "ratio": "4/5",
+          "bleed": false,
           "items": [
             {
-              "image": "assets/media/works/1000-burgers/bag3.webp",
-              "video": ""
+              "image": "assets/media/works/1000-burgers/bag3.webp"
             },
             {
-              "image": "assets/media/works/1000-burgers/burger.webp",
-              "video": ""
+              "image": "assets/media/works/1000-burgers/burger.webp"
             }
           ]
         },
         {
           "type": "pair",
           "ratio": "1/1",
+          "bleed": false,
           "items": [
             {
-              "image": "assets/media/works/1000-burgers/dips.webp",
-              "video": ""
+              "image": "assets/media/works/1000-burgers/dips.webp"
             },
             {
-              "image": "assets/media/works/1000-burgers/fries.webp",
-              "video": ""
+              "image": "assets/media/works/1000-burgers/fries.webp"
             }
           ]
         },
@@ -386,14 +386,13 @@
         {
           "type": "pair",
           "ratio": "4/5",
+          "bleed": false,
           "items": [
             {
-              "image": "assets/media/works/1000-burgers/frame-100.webp",
-              "video": ""
+              "image": "assets/media/works/1000-burgers/frame-100.webp"
             },
             {
-              "image": "assets/media/works/1000-burgers/slide.webp",
-              "video": ""
+              "image": "assets/media/works/1000-burgers/slide.webp"
             }
           ]
         },
@@ -444,8 +443,6 @@
         "Illustrator",
         "Photoshop"
       ],
-      "collaborators": [],
-      "links": [],
       "blocks": [
         {
           "type": "media",
@@ -456,26 +453,30 @@
         },
         {
           "type": "text",
+          "bleed": false,
           "label": "Role",
           "heading": "My Role",
-          "body": "Developed the brand concept and visual identity for Silair, translating its connection to Siliserh Lake and Rajasthan into a contemporary can system and product world. The project also involved packaging design and creating the final product visualisations.",
-          "kicker": "Brand Strategy · Brand Identity · Packaging · Product Visualisation · Art Direction"
+          "kicker": "Brand Strategy · Brand Identity · Packaging · Product Visualisation · Art Direction",
+          "body": "Developed the brand concept and visual identity for Silair, translating its connection to Siliserh Lake and Rajasthan into a contemporary can system and product world. The project also involved packaging design and creating the final product visualisations."
         },
         {
           "type": "text",
+          "bleed": false,
           "label": "01",
           "heading": "The Context",
           "body": "Premium sparkling water is a crowded shelf where most brands speak the same cool, minimal language. The opportunity was to give Silair a sense of origin — a brand that feels rooted in a real place while still belonging to a contemporary lifestyle."
         },
         {
           "type": "text",
+          "bleed": false,
           "label": "02",
           "heading": "The Idea",
-          "body": "Silair takes its name and narrative from Siliserh Lake in Rajasthan, using the landscape as the foundation for the brand story. The identity interprets the region through flowing forms and ornamental details, connecting the natural source of the water with its cultural surroundings.\n\nThe aim was to create a sparkling water brand that feels rooted in place while still belonging to a contemporary premium lifestyle.",
-          "kicker": "Born from Siliserh Lake."
+          "kicker": "Born from Siliserh Lake.",
+          "body": "Silair takes its name and narrative from Siliserh Lake in Rajasthan, using the landscape as the foundation for the brand story. The identity interprets the region through flowing forms and ornamental details, connecting the natural source of the water with its cultural surroundings.\n\nThe aim was to create a sparkling water brand that feels rooted in place while still belonging to a contemporary premium lifestyle."
         },
         {
           "type": "divider",
+          "bleed": false,
           "title": "Process",
           "note": "Ideation sketches, illustration and the dieline."
         },
@@ -483,11 +484,11 @@
           "type": "media",
           "ratio": "16/9",
           "bleed": false,
-          "image": "assets/media/works/silair/ideations.webp",
-          "video": ""
+          "image": "assets/media/works/silair/ideations.webp"
         },
         {
           "type": "text",
+          "bleed": false,
           "label": "03",
           "heading": "The Identity",
           "body": "An ornamental wordmark and hand-drawn swirls of fruit and water carry the story of the lake onto every can. Each flavour — peach, lime and blackberry — gets its own colour world, while the shared illustration style keeps the range unmistakably Silair."
@@ -495,6 +496,7 @@
         {
           "type": "pair",
           "ratio": "1/1",
+          "bleed": false,
           "items": [
             {
               "image": "assets/media/works/silair/bgpeach-poster.jpg",
@@ -515,11 +517,13 @@
         },
         {
           "type": "divider",
+          "bleed": false,
           "title": "Final Deliverables",
           "note": "The can system, multipacks and the 3D product world."
         },
         {
           "type": "text",
+          "bleed": false,
           "label": "04",
           "heading": "The Packaging",
           "body": "The can system translates the brand story into a bold, cohesive product family. Each flavour is given its own colour and graphic treatment, while the shared structure and visual language keep the range recognisably Silair.\n\nThe elongated can format and expressive graphics give the sparkling water a distinctive presence, balancing shelf impact with a more considered premium character."
@@ -528,20 +532,18 @@
           "type": "media",
           "ratio": "16/9",
           "bleed": true,
-          "image": "assets/media/works/silair/render3.webp",
-          "video": ""
+          "image": "assets/media/works/silair/render3.webp"
         },
         {
           "type": "pair",
           "ratio": "1/1",
+          "bleed": false,
           "items": [
             {
-              "image": "assets/media/works/silair/render4.webp",
-              "video": ""
+              "image": "assets/media/works/silair/render4.webp"
             },
             {
-              "image": "assets/media/works/silair/render5.webp",
-              "video": ""
+              "image": "assets/media/works/silair/render5.webp"
             }
           ]
         },
@@ -549,18 +551,17 @@
           "type": "media",
           "ratio": "16/9",
           "bleed": false,
-          "image": "assets/media/works/silair/secondary-packaging.webp",
-          "video": ""
+          "image": "assets/media/works/silair/secondary-packaging.webp"
         },
         {
           "type": "media",
           "ratio": "16/9",
           "bleed": false,
-          "image": "assets/media/works/silair/tertiary-packaging.webp",
-          "video": ""
+          "image": "assets/media/works/silair/tertiary-packaging.webp"
         },
         {
           "type": "text",
+          "bleed": false,
           "label": "05",
           "heading": "The Product World",
           "body": "Product visualisation became an extension of the brand identity, placing the cans within a carefully constructed world of colour, light and material. The renders explore Silair as both a refreshing product and a premium lifestyle object."
@@ -575,6 +576,7 @@
         {
           "type": "pair",
           "ratio": "16/9",
+          "bleed": false,
           "items": [
             {
               "image": "assets/media/works/silair/0001-0040-poster.jpg",
@@ -590,15 +592,13 @@
           "type": "media",
           "ratio": "16/9",
           "bleed": false,
-          "image": "assets/media/works/silair/stackk4.webp",
-          "video": ""
+          "image": "assets/media/works/silair/stackk4.webp"
         },
         {
           "type": "media",
           "ratio": "16/9",
           "bleed": true,
-          "image": "assets/media/works/silair/render6.webp",
-          "video": ""
+          "image": "assets/media/works/silair/render6.webp"
         }
       ]
     },
@@ -619,7 +619,6 @@
       "featured": true,
       "cover": "assets/media/works/ibaco/cover.webp",
       "coverFocus": "50% 50%",
-      "coverVideo": "",
       "palette": [
         "#EF4444",
         "#F2EEE3",
@@ -643,7 +642,6 @@
         "Aleta Jibi",
         "Diya Gupta"
       ],
-      "links": [],
       "heroCompare": {
         "before": "assets/media/works/ibaco/rebrand-old.webp",
         "after": "assets/media/works/ibaco/rebrand-new.webp",
@@ -653,26 +651,30 @@
       "blocks": [
         {
           "type": "text",
+          "bleed": false,
           "label": "Role",
           "heading": "My Role",
-          "body": "Collaborated on the rebranding of Ibaco, contributing to the visual identity, illustration system and packaging applications. I developed the landmark-based illustration concept that became a key part of the new brand language.",
-          "kicker": "Brand Identity · Illustration · Packaging · Visual Direction"
+          "kicker": "Brand Identity · Illustration · Packaging · Visual Direction",
+          "body": "Collaborated on the rebranding of Ibaco, contributing to the visual identity, illustration system and packaging applications. I developed the landmark-based illustration concept that became a key part of the new brand language."
         },
         {
           "type": "text",
+          "bleed": false,
           "label": "01",
           "heading": "The Context",
           "body": "Ibaco had a strong product offering, but its existing visual identity had become inconsistent across packaging, communication and digital touchpoints. The opportunity was to create a more contemporary and cohesive identity while retaining the variety that made the brand distinctive."
         },
         {
           "type": "text",
+          "bleed": false,
           "label": "02",
           "heading": "The Idea",
-          "body": "Ibaco's 36 flavours take inspiration from different parts of the world. Rather than treating this variety as a list of products, the identity turns each flavour into a destination, pairing it with landmarks and visual references from its place of inspiration.\n\nThese illustrations became the foundation for a playful visual world that communicates Ibaco's global range while giving each flavour its own story.",
-          "kicker": "36 flavours. 36 destinations."
+          "kicker": "36 flavours. 36 destinations.",
+          "body": "Ibaco's 36 flavours take inspiration from different parts of the world. Rather than treating this variety as a list of products, the identity turns each flavour into a destination, pairing it with landmarks and visual references from its place of inspiration.\n\nThese illustrations became the foundation for a playful visual world that communicates Ibaco's global range while giving each flavour its own story."
         },
         {
           "type": "divider",
+          "bleed": false,
           "title": "Process",
           "note": "Landmark illustrations and the new wordmark."
         },
@@ -680,11 +682,11 @@
           "type": "media",
           "ratio": "16/9",
           "bleed": false,
-          "image": "assets/media/works/ibaco/1.webp",
-          "video": ""
+          "image": "assets/media/works/ibaco/1.webp"
         },
         {
           "type": "text",
+          "bleed": false,
           "label": "03",
           "heading": "The Identity",
           "body": "The new identity builds on the idea of discovery and destination. The dot above the “i” becomes a location pin, while the relationship between the “c” and “o” references an open mouth and a scoop of ice cream.\n\nA refined wordmark and simplified visual language give the brand a more contemporary presence while keeping its playful character intact."
@@ -693,11 +695,11 @@
           "type": "media",
           "ratio": "16/9",
           "bleed": false,
-          "image": "assets/media/works/ibaco/logoexplainer.webp",
-          "video": ""
+          "image": "assets/media/works/ibaco/logoexplainer.webp"
         },
         {
           "type": "text",
+          "bleed": false,
           "label": "04",
           "heading": "The Visual System",
           "body": "The landmark illustrations were developed as a flexible visual library, allowing the identity to shift between flavours and applications while remaining recognisably Ibaco. A warm red, cream and chocolate palette gives the system a playful but grounded character."
@@ -705,24 +707,25 @@
         {
           "type": "pair",
           "ratio": "1/1",
+          "bleed": false,
           "items": [
             {
-              "image": "assets/media/works/ibaco/stickers.webp",
-              "video": ""
+              "image": "assets/media/works/ibaco/stickers.webp"
             },
             {
-              "image": "assets/media/works/ibaco/ice-cream-sticks.webp",
-              "video": ""
+              "image": "assets/media/works/ibaco/ice-cream-sticks.webp"
             }
           ]
         },
         {
           "type": "divider",
+          "bleed": false,
           "title": "Final Deliverables",
           "note": "Packaging, menus, merchandise, digital and spaces."
         },
         {
           "type": "text",
+          "bleed": false,
           "label": "05",
           "heading": "The Applications",
           "body": "The system was extended across packaging, menus, digital experiences, merchandise and physical spaces, allowing the idea of an ice cream destination to exist beyond the product itself."
@@ -731,27 +734,24 @@
           "type": "media",
           "ratio": "16/9",
           "bleed": true,
-          "image": "assets/media/works/ibaco/packaging1.webp",
-          "video": ""
+          "image": "assets/media/works/ibaco/packaging1.webp"
         },
         {
           "type": "media",
           "ratio": "16/9",
           "bleed": false,
-          "image": "assets/media/works/ibaco/packaging2.webp",
-          "video": ""
+          "image": "assets/media/works/ibaco/packaging2.webp"
         },
         {
           "type": "pair",
           "ratio": "4/5",
+          "bleed": false,
           "items": [
             {
-              "image": "assets/media/works/ibaco/tubs.webp",
-              "video": ""
+              "image": "assets/media/works/ibaco/tubs.webp"
             },
             {
-              "image": "assets/media/works/ibaco/sticks.webp",
-              "video": ""
+              "image": "assets/media/works/ibaco/sticks.webp"
             }
           ]
         },
@@ -759,50 +759,43 @@
           "type": "media",
           "ratio": "16/9",
           "bleed": false,
-          "image": "assets/media/works/ibaco/packaging.webp",
-          "video": ""
+          "image": "assets/media/works/ibaco/packaging.webp"
         },
         {
           "type": "media",
           "ratio": "16/9",
           "bleed": false,
-          "image": "assets/media/works/ibaco/mocks.webp",
-          "video": ""
+          "image": "assets/media/works/ibaco/mocks.webp"
         },
         {
           "type": "media",
           "ratio": "16/9",
           "bleed": true,
-          "image": "assets/media/works/ibaco/menu.webp",
-          "video": ""
+          "image": "assets/media/works/ibaco/menu.webp"
         },
         {
           "type": "media",
           "ratio": "16/9",
           "bleed": false,
-          "image": "assets/media/works/ibaco/apron.webp",
-          "video": ""
+          "image": "assets/media/works/ibaco/apron.webp"
         },
         {
           "type": "media",
           "ratio": "16/9",
           "bleed": false,
-          "image": "assets/media/works/ibaco/filler.webp",
-          "video": ""
+          "image": "assets/media/works/ibaco/filler.webp"
         },
         {
           "type": "media",
           "ratio": "16/9",
           "bleed": true,
-          "image": "assets/media/works/ibaco/truck.webp",
-          "video": ""
+          "image": "assets/media/works/ibaco/truck.webp"
         },
         {
           "type": "media",
           "ratio": "16/9",
           "bleed": false,
-          "image": "assets/media/works/ibaco/social.webp",
-          "video": ""
+          "image": "assets/media/works/ibaco/social.webp"
         }
       ]
     },
@@ -840,8 +833,6 @@
         "Illustrator",
         "Photoshop"
       ],
-      "collaborators": [],
-      "links": [],
       "blocks": [
         {
           "type": "media",
@@ -852,34 +843,36 @@
         },
         {
           "type": "text",
+          "bleed": false,
           "label": "Role",
           "heading": "My Role",
-          "body": "Developed the visual identity and event branding system, including the logo, typography, colour palette and promotional applications.",
-          "kicker": "Event Branding · Visual Identity · Art Direction"
+          "kicker": "Event Branding · Visual Identity · Art Direction",
+          "body": "Developed the visual identity and event branding system, including the logo, typography, colour palette and promotional applications."
         },
         {
           "type": "text",
+          "bleed": false,
           "label": "01",
           "heading": "The Idea",
-          "body": "The identity explores gender as something fluid rather than fixed. A fragmented starburst form became the central visual device, representing movement, expression and the breaking of boundaries.\n\nThe logo draws from the segmented movement of a camera shutter, connecting photography with the idea of capturing fleeting gestures and different forms of identity.",
-          "kicker": "Expressive. Fluid. Undefined."
+          "kicker": "Expressive. Fluid. Undefined.",
+          "body": "The identity explores gender as something fluid rather than fixed. A fragmented starburst form became the central visual device, representing movement, expression and the breaking of boundaries.\n\nThe logo draws from the segmented movement of a camera shutter, connecting photography with the idea of capturing fleeting gestures and different forms of identity."
         },
         {
           "type": "divider",
+          "bleed": false,
           "title": "Process",
           "note": "Sketches, the mark, type and colour."
         },
         {
           "type": "pair",
           "ratio": "1/1",
+          "bleed": false,
           "items": [
             {
-              "image": "assets/media/works/gender-and-gesture/sketch.webp",
-              "video": ""
+              "image": "assets/media/works/gender-and-gesture/sketch.webp"
             },
             {
-              "image": "assets/media/works/gender-and-gesture/artboard-1.webp",
-              "video": ""
+              "image": "assets/media/works/gender-and-gesture/artboard-1.webp"
             }
           ]
         },
@@ -887,31 +880,32 @@
           "type": "media",
           "ratio": "16/9",
           "bleed": false,
-          "image": "assets/media/works/gender-and-gesture/logo-explanation.webp",
-          "video": ""
+          "image": "assets/media/works/gender-and-gesture/logo-explanation.webp"
         },
         {
           "type": "media",
           "ratio": "16/9",
           "bleed": false,
           "image": "assets/media/works/gender-and-gesture/colour-font.webp",
-          "video": "",
           "fit": "contain",
           "bg": "#1d1d1f"
         },
         {
           "type": "text",
+          "bleed": false,
           "label": "02",
           "heading": "The Visual System",
           "body": "The visual language combines fragmented typography, expressive graphic forms and a red and purple palette to create a system that feels energetic and intentionally disruptive.\n\nPhotography and abstract gestures become part of the identity, allowing the system to shift between structured layouts and more expressive compositions."
         },
         {
           "type": "divider",
+          "bleed": false,
           "title": "Final Deliverables",
           "note": "Exhibition graphics, passes, print and spatial applications."
         },
         {
           "type": "text",
+          "bleed": false,
           "label": "03",
           "heading": "The Applications",
           "body": "The identity was extended across exhibition graphics, passes, promotional material and spatial applications, creating a cohesive visual environment for the event."
@@ -920,20 +914,18 @@
           "type": "media",
           "ratio": "16/9",
           "bleed": true,
-          "image": "assets/media/works/gender-and-gesture/posters.webp",
-          "video": ""
+          "image": "assets/media/works/gender-and-gesture/posters.webp"
         },
         {
           "type": "pair",
           "ratio": "1/1",
+          "bleed": false,
           "items": [
             {
-              "image": "assets/media/works/gender-and-gesture/colour-font-1.webp",
-              "video": ""
+              "image": "assets/media/works/gender-and-gesture/colour-font-1.webp"
             },
             {
               "image": "assets/media/works/gender-and-gesture/slide8.webp",
-              "video": "",
               "focus": "58% 50%"
             }
           ]
@@ -942,22 +934,19 @@
           "type": "media",
           "ratio": "16/9",
           "bleed": true,
-          "image": "assets/media/works/gender-and-gesture/slide10.webp",
-          "video": ""
+          "image": "assets/media/works/gender-and-gesture/slide10.webp"
         },
         {
           "type": "media",
           "ratio": "16/9",
           "bleed": false,
-          "image": "assets/media/works/gender-and-gesture/slide6.webp",
-          "video": ""
+          "image": "assets/media/works/gender-and-gesture/slide6.webp"
         },
         {
           "type": "media",
           "ratio": "16/9",
           "bleed": false,
           "image": "assets/media/works/gender-and-gesture/colour-fontt.webp",
-          "video": "",
           "fit": "contain",
           "bg": "#1d1d1f"
         }
@@ -991,7 +980,6 @@
       "tools": [
         "ZBrush"
       ],
-      "collaborators": [],
       "links": [
         {
           "label": "View Reference",
@@ -1008,19 +996,22 @@
         },
         {
           "type": "text",
+          "bleed": false,
           "label": "Role",
           "heading": "My Role",
-          "body": "Recreated the reference sculpture in ZBrush as a study in digital sculpting, focusing on facial structure, organic forms and sculptural detailing.",
-          "kicker": "3D Sculpting · ZBrush"
+          "kicker": "3D Sculpting · ZBrush",
+          "body": "Recreated the reference sculpture in ZBrush as a study in digital sculpting, focusing on facial structure, organic forms and sculptural detailing."
         },
         {
           "type": "text",
+          "bleed": false,
           "label": "01",
           "heading": "The Study",
           "body": "The project began as an exercise in translating an existing sculpt into a 3D workflow. The focus was on understanding form, proportion and surface detail while developing familiarity with ZBrush's sculpting tools."
         },
         {
           "type": "divider",
+          "bleed": false,
           "title": "Process",
           "note": "Blocking out the face, refining features and building detail."
         },
@@ -1028,20 +1019,18 @@
           "type": "media",
           "ratio": "16/9",
           "bleed": true,
-          "image": "assets/media/works/digital-sculpting/zbrush-screengrab01.webp",
-          "video": ""
+          "image": "assets/media/works/digital-sculpting/zbrush-screengrab01.webp"
         },
         {
           "type": "pair",
           "ratio": "1/1",
+          "bleed": false,
           "items": [
             {
-              "image": "assets/media/works/digital-sculpting/progress.webp",
-              "video": ""
+              "image": "assets/media/works/digital-sculpting/progress.webp"
             },
             {
-              "image": "assets/media/works/digital-sculpting/zbrush-document10.webp",
-              "video": ""
+              "image": "assets/media/works/digital-sculpting/zbrush-document10.webp"
             }
           ]
         },
@@ -1049,29 +1038,30 @@
           "type": "media",
           "ratio": "16/9",
           "bleed": false,
-          "image": "assets/media/works/digital-sculpting/progress1.webp",
-          "video": ""
+          "image": "assets/media/works/digital-sculpting/progress1.webp"
         },
         {
           "type": "media",
           "ratio": "16/9",
           "bleed": false,
-          "image": "assets/media/works/digital-sculpting/progress2.webp",
-          "video": ""
+          "image": "assets/media/works/digital-sculpting/progress2.webp"
         },
         {
           "type": "text",
+          "bleed": false,
           "label": "02",
           "heading": "The Sculpt",
           "body": "The final sculpt explores the original character's elongated forms, layered hair and ornamental details through my own reconstruction."
         },
         {
           "type": "divider",
+          "bleed": false,
           "title": "Final Deliverables",
           "note": "Final renders of the finished sculpt."
         },
         {
           "type": "text",
+          "bleed": false,
           "label": "03",
           "heading": "The Result",
           "body": "A first exploration into digital sculpting, developed as a study of form, detail and the possibilities of working in ZBrush."
@@ -1079,14 +1069,13 @@
         {
           "type": "pair",
           "ratio": "1/1",
+          "bleed": false,
           "items": [
             {
-              "image": "assets/media/works/digital-sculpting/render-01.webp",
-              "video": ""
+              "image": "assets/media/works/digital-sculpting/render-01.webp"
             },
             {
-              "image": "assets/media/works/digital-sculpting/render-03.webp",
-              "video": ""
+              "image": "assets/media/works/digital-sculpting/render-03.webp"
             }
           ]
         },
@@ -1095,20 +1084,18 @@
           "ratio": "16/9",
           "bleed": true,
           "image": "assets/media/works/digital-sculpting/zbrush-document8.webp",
-          "video": "",
           "focus": "50% 30%"
         },
         {
           "type": "pair",
           "ratio": "1/1",
+          "bleed": false,
           "items": [
             {
-              "image": "assets/media/works/digital-sculpting/zbrush-document7.webp",
-              "video": ""
+              "image": "assets/media/works/digital-sculpting/zbrush-document7.webp"
             },
             {
-              "image": "assets/media/works/digital-sculpting/zbrush-document9.webp",
-              "video": ""
+              "image": "assets/media/works/digital-sculpting/zbrush-document9.webp"
             }
           ]
         }
