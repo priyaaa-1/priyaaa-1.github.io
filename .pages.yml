@@ -56,8 +56,19 @@ content:
           - { name: lastName, label: Last name, type: string }
           - { name: logo, label: Logo, type: image }
           - { name: logoAlt, label: Logo alt text, type: string }
-      - { name: nav, label: Navigation, type: link, list: true }
-      - { name: navCta, label: Header button, type: link }
+      - name: nav
+        label: Navigation
+        type: object
+        list: true
+        fields:
+          - { name: label, label: Label, type: string }
+          - { name: href, label: Link, type: string }
+      - name: navCta
+        label: Header button
+        type: object
+        fields:
+          - { name: label, label: Label, type: string }
+          - { name: href, label: Link, type: string }
       - name: contact
         label: Contact
         type: object
@@ -94,7 +105,13 @@ content:
                 options: { values: [split, centered] }
               - { name: tagline, label: "Tagline (**bold**, _italic_)", type: text }
               - { name: backgroundImage, label: Background image / video (optional), type: file }
-              - { name: categories, label: Category links, type: link, list: true }
+              - name: categories
+                label: Category links
+                type: object
+                list: true
+                fields:
+                  - { name: label, label: Label, type: string }
+                  - { name: href, label: Link, type: string }
           - name: works
             label: Works section
             type: object
