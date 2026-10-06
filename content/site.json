@@ -67,7 +67,6 @@
     "hero": {
       "variant": "split",
       "tagline": "**_Ideas made tangible_** through **identity, packaging and motion.** Built with **concept, direction** and **detail.**",
-      "backgroundImage": "",
       "categories": [
         {
           "label": "Branding",
@@ -100,8 +99,7 @@
         "#7B2CC4",
         "#A452C6",
         "#D98BB5"
-      ],
-      "backgroundImage": ""
+      ]
     },
     "services": {
       "eyebrow": "Services",
@@ -119,8 +117,7 @@
       "palette": [
         "#3b2a1f",
         "#8a6a4f"
-      ],
-      "video": ""
+      ]
     },
     {
       "title": "Brand Identity + Visual Systems",
@@ -129,8 +126,7 @@
       "palette": [
         "#2a1a4a",
         "#c19ae6"
-      ],
-      "video": ""
+      ]
     },
     {
       "title": "Packaging Design",
@@ -139,18 +135,17 @@
       "palette": [
         "#5a2d1a",
         "#f0a875"
-      ],
-      "video": ""
+      ]
     },
     {
       "title": "Motion Graphics",
       "description": "Creating movement-led visual stories through kinetic typography, graphic animation, transitions, 3D motion, and dynamic brand experiences.",
       "image": "assets/media/works/1000-burgers/logoanim-poster.jpg",
+      "video": "assets/media/works/1000-burgers/logoanim.mp4",
       "palette": [
         "#2c2a22",
         "#857653"
-      ],
-      "video": "assets/media/works/1000-burgers/logoanim.mp4"
+      ]
     },
     {
       "title": "3D + Product Visualisation",
@@ -159,35 +154,30 @@
       "palette": [
         "#14304a",
         "#7fb4d9"
-      ],
-      "video": ""
+      ]
     }
   ],
   "testimonials": [
     {
       "quote": "Authenticity without performativity is a delicate balance, much like a dance that flows effortlessly. Structure without rigidity allows for creativity to flourish.",
       "name": "Simone de Beauvoir",
-      "role": "Founder at Asylum Studio",
-      "avatar": ""
+      "role": "Founder at Asylum Studio"
     },
     {
       "quote": "Priya took a half-formed idea and turned it into a brand our customers instantly recognise. Every detail was considered.",
       "name": "Client Name",
-      "role": "Creative Director, Placeholder Co.",
-      "avatar": ""
+      "role": "Creative Director, Placeholder Co."
     },
     {
       "quote": "The packaging system she built for us scaled across forty SKUs without losing any of its character. A rare mix of concept and craft.",
       "name": "Client Name",
-      "role": "Head of Brand, Placeholder Studio",
-      "avatar": ""
+      "role": "Head of Brand, Placeholder Studio"
     }
   ],
   "about": {
     "eyebrow": "About",
     "intro": "I'm Priya — a designer shaping *identities, packaging and motion* for brands that care about the details.",
     "body": "Placeholder bio. Write two or three sentences about your background, what drives your practice and the kind of collaborators you love working with. Keep it warm and specific.",
-    "portrait": "",
     "process": {
       "heading": "Process",
       "description": "Every project begins with understanding the brand's purpose, then evolves into a visual system that is distinctive, scalable, and built to create lasting impact.",
@@ -212,8 +202,7 @@
         {
           "company": "ANTAGONIZT",
           "role": "Brand and 3D Designer",
-          "period": "Jan 2026 — Present",
-          "note": ""
+          "period": "Jan 2026 — Present"
         },
         {
           "company": "Moonkraft Studio",
@@ -277,13 +266,13 @@
       }
     ]
   },
-  "archive": {
-    "heading": "Archive",
-    "description": "A gallery dump of experiments, process, stills and motion — the work between the work."
-  },
   "worksPage": {
     "heading": "Selected Work",
     "description": "A **curated** collection of projects built around **strong ideas** and **distinctive design.**"
+  },
+  "archive": {
+    "heading": "Archive",
+    "description": "A gallery dump of experiments, process, stills and motion — the work between the work."
   },
   "footer": {
     "heading": "Have an idea? *Let's make it tangible.*",
