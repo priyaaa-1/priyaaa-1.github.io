@@ -48,6 +48,10 @@ content:
           - { name: displayFont, label: Display font name, type: string }
           - { name: bodyFont, label: Body font name, type: string }
           - { name: localFonts, label: Load font files from assets/fonts, type: boolean }
+          - { name: nameSizePercent, label: "Home name & footer wordmark size (%) — 100 = current; 70–130", type: number }
+          - { name: pageTitleSizePercent, label: "Page & project title size (%) — 100 = current; 70–130", type: number }
+          - { name: sectionSizePercent, label: "Section & small heading size (%) — 100 = current; 70–130", type: number }
+          - { name: bodySizePercent, label: "Body & intro text size (%) — 100 = current; 70–130", type: number }
       - name: brand
         label: Brand
         type: object

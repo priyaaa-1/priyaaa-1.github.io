@@ -12,7 +12,11 @@
     "radius": "10px",
     "displayFont": "Aglio Picasso",
     "bodyFont": "Neue Montreal",
-    "localFonts": true
+    "localFonts": true,
+    "nameSizePercent": 100,
+    "pageTitleSizePercent": 100,
+    "sectionSizePercent": 100,
+    "bodySizePercent": 100
   },
   "brand": {
     "firstName": "Priya",

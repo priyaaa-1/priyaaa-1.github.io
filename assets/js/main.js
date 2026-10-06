@@ -103,6 +103,19 @@
     }
     if (t.displayFont) r.setProperty("--font-display", `"${t.displayFont}", "Times New Roman", serif`);
     if (t.bodyFont) r.setProperty("--font-body", `"${t.bodyFont}", "Helvetica Neue", Arial, sans-serif`);
+    // Percent controls keep the responsive type scale intact. Blank/invalid = 100%.
+    const fontScales = {
+      nameSizePercent: "--scale-name",
+      pageTitleSizePercent: "--scale-page-title",
+      sectionSizePercent: "--scale-section",
+      bodySizePercent: "--scale-body",
+    };
+    Object.entries(fontScales).forEach(([key, variable]) => {
+      const value = t[key];
+      const percent = typeof value === "number" && Number.isFinite(value)
+        ? Math.max(70, Math.min(130, value)) : 100;
+      r.setProperty(variable, String(percent / 100));
+    });
 
     const titles = { home: "", works: "Works", work: "Work", about: "About", archive: "Archive", contact: "Contact" };
     const name = `${site.brand.firstName} ${site.brand.lastName}`;
