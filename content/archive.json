@@ -53,10 +53,8 @@
     },
     {
       "type": "video",
-      "src": "assets/media/works/silair/bgpeach.mp4",
-      "poster": "assets/media/works/silair/bgpeach-poster.jpg",
-      "ratio": "800/790",
-      "caption": "Peach swirl",
+      "ratio": "1080/1950",
+      "caption": "Prebiotic Soda Can Dielines",
       "palette": [
         "#6410AD",
         "#D9C2E8"
