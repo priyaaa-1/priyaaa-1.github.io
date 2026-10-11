@@ -229,7 +229,7 @@
       ],
       "featured": true,
       "cover": "assets/media/works/1000-burgers/cover.webp",
-      "coverFocus": "62% 50%",
+      "coverFocus": "50% 50%",
       "coverVideo": "assets/media/works/1000-burgers/logoanim.mp4",
       "palette": [
         "#7A1A2C",
