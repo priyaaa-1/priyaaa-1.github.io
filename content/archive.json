@@ -4,7 +4,7 @@
       "type": "image",
       "src": "assets/media/vinyl2.png",
       "ratio": "1302/948",
-      "caption": "Logo sketches — Gender & Gesture",
+      "caption": "Vinyl Cover",
       "palette": [
         "#6410AD",
         "#D9C2E8"
@@ -15,7 +15,7 @@
       "src": "assets/media/works/silair/0001-0060.mp4",
       "poster": "assets/media/works/silair/0001-0060-poster.jpg",
       "ratio": "1600/900",
-      "caption": "Silair can loop",
+      "caption": "Silair cans",
       "palette": [
         "#6410AD",
         "#D9C2E8"
@@ -36,17 +36,6 @@
       "src": "assets/media/works/digital-sculpting/progress.webp",
       "ratio": "938/783",
       "caption": "Sculpt study",
-      "palette": [
-        "#6410AD",
-        "#D9C2E8"
-      ]
-    },
-    {
-      "type": "video",
-      "src": "assets/media/works/1000-burgers/flipping-1.mp4",
-      "poster": "assets/media/works/1000-burgers/flipping-1-poster.jpg",
-      "ratio": "1600/900",
-      "caption": "On the grill",
       "palette": [
         "#6410AD",
         "#D9C2E8"
@@ -127,9 +116,9 @@
     },
     {
       "type": "image",
-      "src": "assets/media/works/gender-and-gesture/colour-font-1.webp",
+      "src": "assets/media/vinyl.gif",
       "ratio": "472/789",
-      "caption": "Exhibition passes",
+      "caption": "Vinyl Cover ",
       "palette": [
         "#6410AD",
         "#D9C2E8"
