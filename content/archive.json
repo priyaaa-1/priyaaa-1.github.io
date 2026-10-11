@@ -103,11 +103,10 @@
       ]
     },
     {
-      "type": "video",
-      "src": "assets/media/works/silair/0001-0045-2.mp4",
-      "poster": "assets/media/works/silair/0001-0045-2-poster.jpg",
-      "ratio": "1600/900",
-      "caption": "Can render",
+      "type": "image",
+      "src": "assets/media/magazine.png",
+      "ratio": "1600/1100",
+      "caption": "Magazine Layout",
       "palette": [
         "#6410AD",
         "#D9C2E8"
