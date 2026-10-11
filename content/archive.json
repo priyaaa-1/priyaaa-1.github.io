@@ -2,8 +2,7 @@
   "items": [
     {
       "type": "image",
-      "src": "assets/media/works/gender-and-gesture/sketch.webp",
-      "poster": "",
+      "src": "assets/media/vinyl2.png",
       "ratio": "1302/948",
       "caption": "Logo sketches — Gender & Gesture",
       "palette": [
@@ -25,7 +24,6 @@
     {
       "type": "image",
       "src": "assets/media/works/the-commons/instagram-post-31.webp",
-      "poster": "",
       "ratio": "1920/2400",
       "caption": "The Commons — social",
       "palette": [
@@ -36,7 +34,6 @@
     {
       "type": "image",
       "src": "assets/media/works/digital-sculpting/progress.webp",
-      "poster": "",
       "ratio": "938/783",
       "caption": "Sculpt study",
       "palette": [
@@ -58,7 +55,6 @@
     {
       "type": "image",
       "src": "assets/media/works/ibaco/1.webp",
-      "poster": "",
       "ratio": "1920/1141",
       "caption": "Landmark illustrations — Ibaco",
       "palette": [
@@ -91,7 +87,6 @@
     {
       "type": "image",
       "src": "assets/media/works/ibaco/ice-cream-sticks.webp",
-      "poster": "",
       "ratio": "1280/960",
       "caption": "Laser-cut sticks",
       "palette": [
@@ -102,7 +97,6 @@
     {
       "type": "image",
       "src": "assets/media/works/digital-sculpting/zbrush-document8.webp",
-      "poster": "",
       "ratio": "2400/2400",
       "caption": "Rose crown detail",
       "palette": [
@@ -113,7 +107,6 @@
     {
       "type": "image",
       "src": "assets/media/works/1000-burgers/frame-100.webp",
-      "poster": "",
       "ratio": "1920/2400",
       "caption": "Kitchen still",
       "palette": [
@@ -135,7 +128,6 @@
     {
       "type": "image",
       "src": "assets/media/works/gender-and-gesture/colour-font-1.webp",
-      "poster": "",
       "ratio": "472/789",
       "caption": "Exhibition passes",
       "palette": [
@@ -146,7 +138,6 @@
     {
       "type": "image",
       "src": "assets/media/works/the-commons/enamelpns.webp",
-      "poster": "",
       "ratio": "1086/1448",
       "caption": "Enamel pins",
       "palette": [
@@ -157,7 +148,6 @@
     {
       "type": "image",
       "src": "assets/media/works/ibaco/stickers-strip.webp",
-      "poster": "",
       "ratio": "1280/320",
       "caption": "Sticker sheet",
       "palette": [
@@ -179,7 +169,6 @@
     {
       "type": "image",
       "src": "assets/media/works/silair/ideations.webp",
-      "poster": "",
       "ratio": "1280/720",
       "caption": "Packaging ideations",
       "palette": [
@@ -190,7 +179,6 @@
     {
       "type": "image",
       "src": "assets/media/works/digital-sculpting/progress2.webp",
-      "poster": "",
       "ratio": "1180/491",
       "caption": "Eye study",
       "palette": [
@@ -201,7 +189,6 @@
     {
       "type": "image",
       "src": "assets/media/works/1000-burgers/slide.webp",
-      "poster": "",
       "ratio": "1918/2160",
       "caption": "Too hungry to count",
       "palette": [
@@ -223,7 +210,6 @@
     {
       "type": "image",
       "src": "assets/media/works/ibaco/filler.webp",
-      "poster": "",
       "ratio": "1920/1080",
       "caption": "Chocolate bar",
       "palette": [
@@ -234,7 +220,6 @@
     {
       "type": "image",
       "src": "assets/media/works/digital-sculpting/zbrush-screengrab01.webp",
-      "poster": "",
       "ratio": "1536/864",
       "caption": "Work in progress",
       "palette": [
@@ -245,7 +230,6 @@
     {
       "type": "image",
       "src": "assets/media/works/silair/render6.webp",
-      "poster": "",
       "ratio": "2176/908",
       "caption": "Silair stack",
       "palette": [
